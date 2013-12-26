@@ -138,6 +138,34 @@ li a {
   left: 4px;
   transition: all .1s ease-in-out;
 }
+.button:visited {
+  background: red;
+  box-shadow: 
+	0 3.8em 0 -2.2em hsla(0,0%,100%,.2) inset,
+    1px 1px 0px red,
+    2px 2px 0px #203891,
+    3px 3px 0px #3852b1,
+    4px 4px 0px black;
+  position: relative;
+  top: -3px;
+  left: 2px;
+  transition: all .1s ease-in-out;
+}
+.button:visited:hover {
+  background: #3d58b6;
+  box-shadow: 
+	0 3.8em 0 -2.2em hsla(0,0%,100%,.2) inset,
+    1px 1px 0px #3852b1,
+    2px 2px 0px #203891,
+    3px 3px 0px #3852b1,
+    4px 4px 0px black;
+  position: relative;
+  top: -3px;
+  left: 2px;
+  transition: all .1s ease-in-out;
+}
+
+
 
 footer {
 	text-align: center;
