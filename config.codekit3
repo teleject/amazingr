@@ -1,0 +1,4055 @@
+{
+"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and\/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https:\/\/codekitapp.com\/",
+"buildSteps": [
+	{
+		"name": "Process All Remaining Files and Folders",
+		"stepType": 1,
+		"uuidString": "3746D7B7-8EC2-43D1-B7BF-2B37FC8B83E2"
+		}
+	],
+"creatorBuild": "26680",
+"files": {
+	"\/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
+	"\/404.gif": {
+		"ft": 4194304,
+		"iS": 504755,
+		"oA": 0,
+		"oAP": "\/404.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/404.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/404.html",
+		"oF": 0
+		},
+	"\/ad-snoopy.gif": {
+		"ft": 4194304,
+		"iS": 955674,
+		"oA": 0,
+		"oAP": "\/ad-snoopy.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ad-snoopy2.gif": {
+		"ft": 4194304,
+		"iS": 1820102,
+		"oA": 0,
+		"oAP": "\/ad-snoopy2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/addamsfamily-dance.gif": {
+		"ft": 4194304,
+		"iS": 1001249,
+		"oA": 0,
+		"oAP": "\/addamsfamily-dance.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/air-quotes-lasers.gif": {
+		"ft": 4194304,
+		"iS": 455849,
+		"oA": 0,
+		"oAP": "\/air-quotes-lasers.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/anchor-man-that-escalated-quickly.gif": {
+		"ft": 4194304,
+		"iS": 1962846,
+		"oA": 0,
+		"oAP": "\/anchor-man-that-escalated-quickly.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/and-in-a-squeaker-for-second-place.gif": {
+		"ft": 4194304,
+		"iS": 2056042,
+		"oA": 0,
+		"oAP": "\/and-in-a-squeaker-for-second-place.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/arnie-smiling.gif": {
+		"ft": 4194304,
+		"iS": 2037386,
+		"oA": 0,
+		"oAP": "\/arnie-smiling.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/around-and-around.gif": {
+		"ft": 4194304,
+		"iS": 1767118,
+		"oA": 0,
+		"oAP": "\/around-and-around.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/at-science.gif": {
+		"ft": 4194304,
+		"iS": 69607,
+		"oA": 0,
+		"oAP": "\/at-science.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/attention-grabber.gif": {
+		"ft": 4194304,
+		"iS": 1044274,
+		"oA": 0,
+		"oAP": "\/attention-grabber.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/awesome-day-today.gif": {
+		"ft": 4194304,
+		"iS": 2026541,
+		"oA": 0,
+		"oAP": "\/awesome-day-today.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/balance.gif": {
+		"ft": 4194304,
+		"iS": 1042449,
+		"oA": 0,
+		"oAP": "\/balance.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/barney-bored.gif": {
+		"ft": 4194304,
+		"iS": 407331,
+		"oA": 0,
+		"oAP": "\/barney-bored.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/baseball-practice.gif": {
+		"ft": 4194304,
+		"iS": 699515,
+		"oA": 0,
+		"oAP": "\/baseball-practice.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/batman-belt-awesome.gif": {
+		"ft": 4194304,
+		"iS": 439893,
+		"oA": 0,
+		"oAP": "\/batman-belt-awesome.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/Batmobile.gif": {
+		"ft": 4194304,
+		"iS": 3644569,
+		"oA": 0,
+		"oAP": "\/Batmobile.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/bats-lightning.gif": {
+		"ft": 4194304,
+		"iS": 515928,
+		"oA": 0,
+		"oAP": "\/bats-lightning.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/bb-excited-louise.gif": {
+		"ft": 4194304,
+		"iS": 1384450,
+		"oA": 0,
+		"oAP": "\/bb-excited-louise.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/bb-into-coffee.gif": {
+		"ft": 4194304,
+		"iS": 309972,
+		"oA": 0,
+		"oAP": "\/bb-into-coffee.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/bb-tina-hgh.gif": {
+		"ft": 4194304,
+		"iS": 292719,
+		"oA": 0,
+		"oAP": "\/bb-tina-hgh.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/benjamins.gif": {
+		"ft": 4194304,
+		"iS": 653581,
+		"oA": 0,
+		"oAP": "\/benjamins.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/bird-hand.gif": {
+		"ft": 4194304,
+		"iS": 1538020,
+		"oA": 0,
+		"oAP": "\/bird-hand.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/black-knight.gif": {
+		"ft": 4194304,
+		"iS": 6629400,
+		"oA": 0,
+		"oAP": "\/black-knight.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/body-building-competition.gif": {
+		"ft": 4194304,
+		"iS": 2089981,
+		"oA": 0,
+		"oAP": "\/body-building-competition.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/bttf-sparkles.gif": {
+		"ft": 4194304,
+		"iS": 504565,
+		"oA": 0,
+		"oAP": "\/bttf-sparkles.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/butts.gif": {
+		"ft": 4194304,
+		"iS": 64071,
+		"oA": 0,
+		"oAP": "\/butts.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/cage-scream.gif": {
+		"ft": 4194304,
+		"iS": 1623732,
+		"oA": 0,
+		"oAP": "\/cage-scream.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/captain-america-sinking.gif": {
+		"ft": 4194304,
+		"iS": 477122,
+		"oA": 0,
+		"oAP": "\/captain-america-sinking.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/cat-mine.gif": {
+		"ft": 4194304,
+		"iS": 5254794,
+		"oA": 0,
+		"oAP": "\/cat-mine.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/check-out-my-eddie-murphy.gif": {
+		"ft": 4194304,
+		"iS": 5121463,
+		"oA": 0,
+		"oAP": "\/check-out-my-eddie-murphy.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/CNAME",
+		"oF": 0
+		},
+	"\/coffee-spill.gif": {
+		"ft": 4194304,
+		"iS": 554708,
+		"oA": 0,
+		"oAP": "\/coffee-spill.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/colbert-laughing.gif": {
+		"ft": 4194304,
+		"iS": 1708162,
+		"oA": 0,
+		"oAP": "\/colbert-laughing.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/complaining.gif": {
+		"ft": 4194304,
+		"iS": 977206,
+		"oA": 0,
+		"oAP": "\/complaining.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/computer-cat.gif": {
+		"ft": 4194304,
+		"iS": 923000,
+		"oA": 0,
+		"oAP": "\/computer-cat.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/computer-go.gif": {
+		"ft": 4194304,
+		"iS": 808401,
+		"oA": 0,
+		"oAP": "\/computer-go.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/contain-yourself.gif": {
+		"ft": 4194304,
+		"iS": 372201,
+		"oA": 0,
+		"oAP": "\/contain-yourself.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/contemplation.gif": {
+		"ft": 4194304,
+		"iS": 396492,
+		"oA": 0,
+		"oAP": "\/contemplation.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/cookies-surprise.gif": {
+		"ft": 4194304,
+		"iS": 1035994,
+		"oA": 0,
+		"oAP": "\/cookies-surprise.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/count-eight.gif": {
+		"ft": 4194304,
+		"iS": 5473989,
+		"oA": 0,
+		"oAP": "\/count-eight.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/Creepy-Conan-halloween-mask.gif": {
+		"ft": 4194304,
+		"iS": 1030034,
+		"oA": 0,
+		"oAP": "\/Creepy-Conan-halloween-mask.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/crunching-numbers.gif": {
+		"ft": 4194304,
+		"iS": 604505,
+		"oA": 0,
+		"oAP": "\/crunching-numbers.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/css\/amazingr.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/amazingr-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/amazingr.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/amazingr.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/dancing-fail.gif": {
+		"ft": 4194304,
+		"iS": 1140924,
+		"oA": 0,
+		"oAP": "\/dancing-fail.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dancing.gif": {
+		"ft": 4194304,
+		"iS": 1688635,
+		"oA": 0,
+		"oAP": "\/dancing.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/deep-dive.gif": {
+		"ft": 4194304,
+		"iS": 12257267,
+		"oA": 0,
+		"oAP": "\/deep-dive.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/Dikembe-Mutumbo-Cereal-Block-Geico.gif": {
+		"ft": 4194304,
+		"iS": 1841817,
+		"oA": 0,
+		"oAP": "\/Dikembe-Mutumbo-Cereal-Block-Geico.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/distance-between-two-points.gif": {
+		"ft": 4194304,
+		"iS": 2747107,
+		"oA": 0,
+		"oAP": "\/distance-between-two-points.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dive-and-slide.gif": {
+		"ft": 4194304,
+		"iS": 843315,
+		"oA": 0,
+		"oAP": "\/dive-and-slide.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/do-not-slip-on-icy-roads.gif": {
+		"ft": 4194304,
+		"iS": 2570569,
+		"oA": 0,
+		"oAP": "\/do-not-slip-on-icy-roads.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/do-you-see-what-the-awesome-I-am-doing.gif": {
+		"ft": 4194304,
+		"iS": 140958,
+		"oA": 0,
+		"oAP": "\/do-you-see-what-the-awesome-I-am-doing.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/drink-from-firehose.gif": {
+		"ft": 4194304,
+		"iS": 1001175,
+		"oA": 0,
+		"oAP": "\/drink-from-firehose.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dude-waiting.gif": {
+		"ft": 4194304,
+		"iS": 382232,
+		"oA": 0,
+		"oAP": "\/dude-waiting.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/emergency-call.gif": {
+		"ft": 4194304,
+		"iS": 972949,
+		"oA": 0,
+		"oAP": "\/emergency-call.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/epcot-figment-cap.gif": {
+		"ft": 4194304,
+		"iS": 793774,
+		"oA": 0,
+		"oAP": "\/epcot-figment-cap.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/excellent.gif": {
+		"ft": 4194304,
+		"iS": 553082,
+		"oA": 0,
+		"oAP": "\/excellent.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/excited-for-the-day.gif": {
+		"ft": 4194304,
+		"iS": 1637818,
+		"oA": 0,
+		"oAP": "\/excited-for-the-day.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/eye-pain.gif": {
+		"ft": 4194304,
+		"iS": 5778657,
+		"oA": 0,
+		"oAP": "\/eye-pain.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/eye-wash.gif": {
+		"ft": 4194304,
+		"iS": 252219,
+		"oA": 0,
+		"oAP": "\/eye-wash.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/falling-fan.gif": {
+		"ft": 4194304,
+		"iS": 1567684,
+		"oA": 0,
+		"oAP": "\/falling-fan.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/favicon.ico": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/favicon.ico",
+		"oF": 0
+		},
+	"\/fbi-warning.gif": {
+		"ft": 4194304,
+		"iS": 838737,
+		"oA": 0,
+		"oAP": "\/fbi-warning.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/finger-snapping.gif": {
+		"ft": 4194304,
+		"iS": 289238,
+		"oA": 0,
+		"oAP": "\/finger-snapping.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/fixing-the-internet-for-you.gif": {
+		"ft": 4194304,
+		"iS": 1431337,
+		"oA": 0,
+		"oAP": "\/fixing-the-internet-for-you.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/fladoink.gif": {
+		"ft": 4194304,
+		"iS": 2632437,
+		"oA": 0,
+		"oAP": "\/fladoink.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/floor-is-lava.gif": {
+		"ft": 4194304,
+		"iS": 4419830,
+		"oA": 0,
+		"oAP": "\/floor-is-lava.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/football-game-day.gif": {
+		"ft": 4194304,
+		"iS": 1038490,
+		"oA": 0,
+		"oAP": "\/football-game-day.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/footrace.gif": {
+		"ft": 4194304,
+		"iS": 3545171,
+		"oA": 0,
+		"oAP": "\/footrace.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/friends-are-wads.gif": {
+		"ft": 4194304,
+		"iS": 235848,
+		"oA": 0,
+		"oAP": "\/friends-are-wads.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/frogger.gif": {
+		"ft": 4194304,
+		"iS": 1972297,
+		"oA": 0,
+		"oAP": "\/frogger.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/futurama-fry-squint.gif": {
+		"ft": 4194304,
+		"iS": 303049,
+		"oA": 0,
+		"oAP": "\/futurama-fry-squint.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/futurama-takemymoney.gif": {
+		"ft": 4194304,
+		"iS": 566352,
+		"oA": 0,
+		"oAP": "\/futurama-takemymoney.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/gay-marriage.gif": {
+		"ft": 4194304,
+		"iS": 980002,
+		"oA": 0,
+		"oAP": "\/gay-marriage.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/genie-hug.gif": {
+		"ft": 4194304,
+		"iS": 636126,
+		"oA": 0,
+		"oAP": "\/genie-hug.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/gh-gh-ghost.gif": {
+		"ft": 4194304,
+		"iS": 203754,
+		"oA": 0,
+		"oAP": "\/gh-gh-ghost.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ghost-drive-thru.gif": {
+		"ft": 4194304,
+		"iS": 885538,
+		"oA": 0,
+		"oAP": "\/ghost-drive-thru.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/goal.gif": {
+		"ft": 4194304,
+		"iS": 1037058,
+		"oA": 0,
+		"oAP": "\/goal.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/gob-card-dance.gif": {
+		"ft": 4194304,
+		"iS": 488121,
+		"oA": 0,
+		"oAP": "\/gob-card-dance.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/golden-girls-annoyed.gif": {
+		"ft": 4194304,
+		"iS": 493232,
+		"oA": 0,
+		"oAP": "\/golden-girls-annoyed.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/gone-fishing.gif": {
+		"ft": 4194304,
+		"iS": 1985190,
+		"oA": 0,
+		"oAP": "\/gone-fishing.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/goonies-map-eyes.gif": {
+		"ft": 4194304,
+		"iS": 957842,
+		"oA": 0,
+		"oAP": "\/goonies-map-eyes.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/got-yah.gif": {
+		"ft": 4194304,
+		"iS": 1437545,
+		"oA": 0,
+		"oAP": "\/got-yah.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/hahahaha-no.gif": {
+		"ft": 4194304,
+		"iS": 512083,
+		"oA": 0,
+		"oAP": "\/hahahaha-no.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/hair-removal.gif": {
+		"ft": 4194304,
+		"iS": 883673,
+		"oA": 0,
+		"oAP": "\/hair-removal.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/head-games.gif": {
+		"ft": 4194304,
+		"iS": 1526285,
+		"oA": 0,
+		"oAP": "\/head-games.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/high-fives.gif": {
+		"ft": 4194304,
+		"iS": 1000077,
+		"oA": 0,
+		"oAP": "\/high-fives.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/highfive-me-bro.gif": {
+		"ft": 4194304,
+		"iS": 1835683,
+		"oA": 0,
+		"oAP": "\/highfive-me-bro.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/highfive.gif": {
+		"ft": 4194304,
+		"iS": 711168,
+		"oA": 0,
+		"oAP": "\/highfive.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/himym-head-explode.gif": {
+		"ft": 4194304,
+		"iS": 457385,
+		"oA": 0,
+		"oAP": "\/himym-head-explode.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/homey-dont-play.gif": {
+		"ft": 4194304,
+		"iS": 502128,
+		"oA": 0,
+		"oAP": "\/homey-dont-play.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/hot-head.gif": {
+		"ft": 4194304,
+		"iS": 510589,
+		"oA": 0,
+		"oAP": "\/hot-head.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/hp-a-little-dance.gif": {
+		"ft": 4194304,
+		"iS": 482714,
+		"oA": 0,
+		"oAP": "\/hp-a-little-dance.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/hulk-smash-tank.gif": {
+		"ft": 4194304,
+		"iS": 984214,
+		"oA": 0,
+		"oAP": "\/hulk-smash-tank.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/i-do-not-see-it.gif": {
+		"ft": 4194304,
+		"iS": 487632,
+		"oA": 0,
+		"oAP": "\/i-do-not-see-it.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/i-think-i-can-touch-the-sky.gif": {
+		"ft": 4194304,
+		"iS": 1811977,
+		"oA": 0,
+		"oAP": "\/i-think-i-can-touch-the-sky.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ij-carefully.gif": {
+		"ft": 4194304,
+		"iS": 509724,
+		"oA": 0,
+		"oAP": "\/ij-carefully.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ij-love-you.gif": {
+		"ft": 4194304,
+		"iS": 3816710,
+		"oA": 0,
+		"oAP": "\/ij-love-you.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ij-this-is-gonna-be-good.gif": {
+		"ft": 4194304,
+		"iS": 723246,
+		"oA": 0,
+		"oAP": "\/ij-this-is-gonna-be-good.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/img\/amazingr-a.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/img\/amazingr-a.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
+		},
+	"\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/index.html",
+		"oF": 0
+		},
+	"\/interactive-street-art.gif": {
+		"ft": 4194304,
+		"iS": 3012563,
+		"oA": 0,
+		"oAP": "\/interactive-street-art.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/internet.gif": {
+		"ft": 4194304,
+		"iS": 384796,
+		"oA": 0,
+		"oAP": "\/internet.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/invincibler.gif": {
+		"ft": 4194304,
+		"iS": 1887042,
+		"oA": 0,
+		"oAP": "\/invincibler.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/invisible-door.gif": {
+		"ft": 4194304,
+		"iS": 1796883,
+		"oA": 0,
+		"oAP": "\/invisible-door.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/is-it-art.gif": {
+		"ft": 4194304,
+		"iS": 1983645,
+		"oA": 0,
+		"oAP": "\/is-it-art.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/jazz-hands-sorta.gif": {
+		"ft": 4194304,
+		"iS": 949995,
+		"oA": 0,
+		"oAP": "\/jazz-hands-sorta.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/js\/list.min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/list.min-min.js",
+		"oF": 0,
+		"sC": 1,
+		"tS": 0
+		},
+	"\/kermit.gif": {
+		"ft": 4194304,
+		"iS": 549020,
+		"oA": 0,
+		"oAP": "\/kermit.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/kid-driver.gif": {
+		"ft": 4194304,
+		"iS": 3358261,
+		"oA": 0,
+		"oAP": "\/kid-driver.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/kirk-upset.gif": {
+		"ft": 4194304,
+		"iS": 953649,
+		"oA": 0,
+		"oAP": "\/kirk-upset.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/kitchen-aerobics.gif": {
+		"ft": 4194304,
+		"iS": 2854189,
+		"oA": 0,
+		"oAP": "\/kitchen-aerobics.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/kitty-printer-aid.gif": {
+		"ft": 4194304,
+		"iS": 1582515,
+		"oA": 0,
+		"oAP": "\/kitty-printer-aid.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ku-xlarge.gif": {
+		"ft": 4194304,
+		"iS": 3395568,
+		"oA": 0,
+		"oAP": "\/ku-xlarge.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/laser-cats.gif": {
+		"ft": 4194304,
+		"iS": 281859,
+		"oA": 0,
+		"oAP": "\/laser-cats.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/lets-get-crazy.gif": {
+		"ft": 4194304,
+		"iS": 1852951,
+		"oA": 0,
+		"oAP": "\/lets-get-crazy.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/lighting-a-cig.gif": {
+		"ft": 4194304,
+		"iS": 2090216,
+		"oA": 0,
+		"oAP": "\/lighting-a-cig.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/linkit.pl": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/linkit.pl",
+		"oF": 0
+		},
+	"\/loss-for-words.gif": {
+		"ft": 4194304,
+		"iS": 1654100,
+		"oA": 0,
+		"oAP": "\/loss-for-words.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/lt-dan-ice-cream.gif": {
+		"ft": 4194304,
+		"iS": 533054,
+		"oA": 0,
+		"oAP": "\/lt-dan-ice-cream.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/made-the-bed.gif": {
+		"ft": 4194304,
+		"iS": 427446,
+		"oA": 0,
+		"oAP": "\/made-the-bed.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/make-it-so.gif": {
+		"ft": 4194304,
+		"iS": 4278890,
+		"oA": 0,
+		"oAP": "\/make-it-so.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mchammer.gif": {
+		"ft": 4194304,
+		"iS": 66373,
+		"oA": 0,
+		"oAP": "\/mchammer.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/megatron-seat.gif": {
+		"ft": 4194304,
+		"iS": 2036761,
+		"oA": 0,
+		"oAP": "\/megatron-seat.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/miami-fsu-fan-runs-through-middle-of-play-fan-interruption-and-streaker-gifs.gif": {
+		"ft": 4194304,
+		"iS": 1304240,
+		"oA": 0,
+		"oAP": "\/miami-fsu-fan-runs-through-middle-of-play-fan-interruption-and-streaker-gifs.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mind-blown.gif": {
+		"ft": 4194304,
+		"iS": 1915816,
+		"oA": 0,
+		"oAP": "\/mind-blown.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mingus-dew.gif": {
+		"ft": 4194304,
+		"iS": 506195,
+		"oA": 0,
+		"oAP": "\/mingus-dew.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/Mitt-Romney-Laughing.gif": {
+		"ft": 4194304,
+		"iS": 799218,
+		"oA": 0,
+		"oAP": "\/Mitt-Romney-Laughing.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/moments-lost-in-time.gif": {
+		"ft": 4194304,
+		"iS": 915241,
+		"oA": 0,
+		"oAP": "\/moments-lost-in-time.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/momma-dancer.gif": {
+		"ft": 4194304,
+		"iS": 2061988,
+		"oA": 0,
+		"oAP": "\/momma-dancer.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/moonwalk-and-wig.gif": {
+		"ft": 4194304,
+		"iS": 14735300,
+		"oA": 0,
+		"oAP": "\/moonwalk-and-wig.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/moving-launchpad.gif": {
+		"ft": 4194304,
+		"iS": 1958899,
+		"oA": 0,
+		"oAP": "\/moving-launchpad.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/muhammad-ali.gif": {
+		"ft": 4194304,
+		"iS": 962556,
+		"oA": 0,
+		"oAP": "\/muhammad-ali.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/must-register-outrage-on-internet.gif": {
+		"ft": 4194304,
+		"iS": 580362,
+		"oA": 0,
+		"oAP": "\/must-register-outrage-on-internet.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/nailed-it.gif": {
+		"ft": 4194304,
+		"iS": 3418907,
+		"oA": 0,
+		"oAP": "\/nailed-it.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/nicholas-cage-yeah.gif": {
+		"ft": 4194304,
+		"iS": 853872,
+		"oA": 0,
+		"oAP": "\/nicholas-cage-yeah.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/no-no-no.gif": {
+		"ft": 4194304,
+		"iS": 1158673,
+		"oA": 0,
+		"oAP": "\/no-no-no.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/no-valentines-ralph.gif": {
+		"ft": 4194304,
+		"iS": 828485,
+		"oA": 0,
+		"oAP": "\/no-valentines-ralph.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/nope-nope-nope.gif": {
+		"ft": 4194304,
+		"iS": 587474,
+		"oA": 0,
+		"oAP": "\/nope-nope-nope.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/not-happy-sports-fan.gif": {
+		"ft": 4194304,
+		"iS": 3515744,
+		"oA": 0,
+		"oAP": "\/not-happy-sports-fan.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/not-time-for-christmas.gif": {
+		"ft": 4194304,
+		"iS": 509854,
+		"oA": 0,
+		"oAP": "\/not-time-for-christmas.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/nov-05-1955.gif": {
+		"ft": 4194304,
+		"iS": 841503,
+		"oA": 0,
+		"oAP": "\/nov-05-1955.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/oh-deer.gif": {
+		"ft": 4194304,
+		"iS": 288117,
+		"oA": 0,
+		"oAP": "\/oh-deer.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/oh-no-no-no-no.gif": {
+		"ft": 4194304,
+		"iS": 871231,
+		"oA": 0,
+		"oAP": "\/oh-no-no-no-no.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/old-ben-isnt-that-nice-smile.gif": {
+		"ft": 4194304,
+		"iS": 1503145,
+		"oA": 0,
+		"oAP": "\/old-ben-isnt-that-nice-smile.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/oncoming-wave.gif": {
+		"ft": 4194304,
+		"iS": 1034626,
+		"oA": 0,
+		"oAP": "\/oncoming-wave.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/onion-blossom-man.gif": {
+		"ft": 4194304,
+		"iS": 2680507,
+		"oA": 0,
+		"oAP": "\/onion-blossom-man.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/opening-a-bottle.gif": {
+		"ft": 4194304,
+		"iS": 8061775,
+		"oA": 0,
+		"oAP": "\/opening-a-bottle.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/oprah-bees.gif": {
+		"ft": 4194304,
+		"iS": 4817465,
+		"oA": 0,
+		"oAP": "\/oprah-bees.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/party-hard-pug.gif": {
+		"ft": 4194304,
+		"iS": 1075673,
+		"oA": 0,
+		"oAP": "\/party-hard-pug.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/party-hard.gif": {
+		"ft": 4194304,
+		"iS": 830735,
+		"oA": 0,
+		"oAP": "\/party-hard.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/pest-control.gif": {
+		"ft": 4194304,
+		"iS": 2091190,
+		"oA": 0,
+		"oAP": "\/pest-control.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/pizza.gif": {
+		"ft": 4194304,
+		"iS": 418814,
+		"oA": 0,
+		"oAP": "\/pizza.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/popping-a-wheelie.gif": {
+		"ft": 4194304,
+		"iS": 1311662,
+		"oA": 0,
+		"oAP": "\/popping-a-wheelie.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/prince-eyes-hmm.gif": {
+		"ft": 4194304,
+		"iS": 5375151,
+		"oA": 0,
+		"oAP": "\/prince-eyes-hmm.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/prince-i-see-what-you-did.gif": {
+		"ft": 4194304,
+		"iS": 3202747,
+		"oA": 0,
+		"oAP": "\/prince-i-see-what-you-did.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/princess-laptop.gif": {
+		"ft": 4194304,
+		"iS": 218000,
+		"oA": 0,
+		"oAP": "\/princess-laptop.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/priorities.gif": {
+		"ft": 4194304,
+		"iS": 1040738,
+		"oA": 0,
+		"oAP": "\/priorities.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/protestor.gif": {
+		"ft": 4194304,
+		"iS": 2911811,
+		"oA": 0,
+		"oAP": "\/protestor.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/puppies.gif": {
+		"ft": 4194304,
+		"iS": 1620540,
+		"oA": 0,
+		"oAP": "\/puppies.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/putin-rave.gif": {
+		"ft": 4194304,
+		"iS": 295789,
+		"oA": 0,
+		"oAP": "\/putin-rave.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/putting-on-the-ritz.gif": {
+		"ft": 4194304,
+		"iS": 333589,
+		"oA": 0,
+		"oAP": "\/putting-on-the-ritz.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ra-blink.gif": {
+		"ft": 4194304,
+		"iS": 267152,
+		"oA": 0,
+		"oAP": "\/ra-blink.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ready-aim-fire-hit.gif": {
+		"ft": 4194304,
+		"iS": 4170893,
+		"oA": 0,
+		"oAP": "\/ready-aim-fire-hit.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/really-dig-in.gif": {
+		"ft": 4194304,
+		"iS": 934694,
+		"oA": 0,
+		"oAP": "\/really-dig-in.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/robocop-hit-smash.gif": {
+		"ft": 4194304,
+		"iS": 783286,
+		"oA": 0,
+		"oAP": "\/robocop-hit-smash.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/robocop-scared-confused.gif": {
+		"ft": 4194304,
+		"iS": 1518459,
+		"oA": 0,
+		"oAP": "\/robocop-scared-confused.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/robotech-launch-prep.gif": {
+		"ft": 4194304,
+		"iS": 7339019,
+		"oA": 0,
+		"oAP": "\/robotech-launch-prep.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/robotech.gif": {
+		"ft": 4194304,
+		"iS": 1487020,
+		"oA": 0,
+		"oAP": "\/robotech.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/running2.gif": {
+		"ft": 4194304,
+		"iS": 20530,
+		"oA": 0,
+		"oAP": "\/running2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/science.gif": {
+		"ft": 4194304,
+		"iS": 1004765,
+		"oA": 0,
+		"oAP": "\/science.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/sensible-chuckle.gif": {
+		"ft": 4194304,
+		"iS": 1006344,
+		"oA": 0,
+		"oAP": "\/sensible-chuckle.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/shaq-shove.gif": {
+		"ft": 4194304,
+		"iS": 3551442,
+		"oA": 0,
+		"oAP": "\/shaq-shove.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/shark-attack.gif": {
+		"ft": 4194304,
+		"iS": 1009702,
+		"oA": 0,
+		"oAP": "\/shark-attack.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/shhhh.gif": {
+		"ft": 4194304,
+		"iS": 998647,
+		"oA": 0,
+		"oAP": "\/shhhh.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/shia-magic.gif": {
+		"ft": 4194304,
+		"iS": 636985,
+		"oA": 0,
+		"oAP": "\/shia-magic.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/shining-knock-knock.gif": {
+		"ft": 4194304,
+		"iS": 236340,
+		"oA": 0,
+		"oAP": "\/shining-knock-knock.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/shoot-me-a-cig.gif": {
+		"ft": 4194304,
+		"iS": 825517,
+		"oA": 0,
+		"oAP": "\/shoot-me-a-cig.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/shy-old-dog.gif": {
+		"ft": 4194304,
+		"iS": 1384233,
+		"oA": 0,
+		"oAP": "\/shy-old-dog.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/slide-for-joy.gif": {
+		"ft": 4194304,
+		"iS": 1928471,
+		"oA": 0,
+		"oAP": "\/slide-for-joy.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/sliders.gif": {
+		"ft": 4194304,
+		"iS": 7803897,
+		"oA": 0,
+		"oAP": "\/sliders.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/slow-clapping-orson.gif": {
+		"ft": 4194304,
+		"iS": 107827,
+		"oA": 0,
+		"oAP": "\/slow-clapping-orson.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/smoke-racer.gif": {
+		"ft": 4194304,
+		"iS": 3095403,
+		"oA": 0,
+		"oAP": "\/smoke-racer.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/spinning.gif": {
+		"ft": 4194304,
+		"iS": 3411984,
+		"oA": 0,
+		"oAP": "\/spinning.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ssshhhhh.gif": {
+		"ft": 4194304,
+		"iS": 500250,
+		"oA": 0,
+		"oAP": "\/ssshhhhh.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/st-patricks-day-tingle.gif": {
+		"ft": 4194304,
+		"iS": 4670608,
+		"oA": 0,
+		"oAP": "\/st-patricks-day-tingle.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/star-trek-what-do-i-look-like-a-moron.gif": {
+		"ft": 4194304,
+		"iS": 643115,
+		"oA": 0,
+		"oAP": "\/star-trek-what-do-i-look-like-a-moron.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/star-trek-winning.gif": {
+		"ft": 4194304,
+		"iS": 1585222,
+		"oA": 0,
+		"oAP": "\/star-trek-winning.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/step-in-time.gif": {
+		"ft": 4194304,
+		"iS": 503700,
+		"oA": 0,
+		"oAP": "\/step-in-time.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/sttng-data-lightbright.gif": {
+		"ft": 4194304,
+		"iS": 724274,
+		"oA": 0,
+		"oAP": "\/sttng-data-lightbright.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/sudden-death-eye-contact.gif": {
+		"ft": 4194304,
+		"iS": 2942888,
+		"oA": 0,
+		"oAP": "\/sudden-death-eye-contact.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/sup.gif": {
+		"ft": 4194304,
+		"iS": 994563,
+		"oA": 0,
+		"oAP": "\/sup.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/that-homemade-80s-hair-band-video.gif": {
+		"ft": 4194304,
+		"iS": 2267318,
+		"oA": 0,
+		"oAP": "\/that-homemade-80s-hair-band-video.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/the-catch.gif": {
+		"ft": 4194304,
+		"iS": 8771077,
+		"oA": 0,
+		"oAP": "\/the-catch.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/this-guy-here-oomph-yeah.gif": {
+		"ft": 4194304,
+		"iS": 2290489,
+		"oA": 0,
+		"oAP": "\/this-guy-here-oomph-yeah.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/this-much.gif": {
+		"ft": 4194304,
+		"iS": 486121,
+		"oA": 0,
+		"oAP": "\/this-much.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs-up.gif": {
+		"ft": 4194304,
+		"iS": 490413,
+		"oA": 0,
+		"oAP": "\/thumbs-up.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs-up2.gif": {
+		"ft": 4194304,
+		"iS": 420103,
+		"oA": 0,
+		"oAP": "\/thumbs-up2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs-up3.gif": {
+		"ft": 4194304,
+		"iS": 3704604,
+		"oA": 0,
+		"oAP": "\/thumbs-up3.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/time-to-pick-up-dirt.gif": {
+		"ft": 4194304,
+		"iS": 2007844,
+		"oA": 0,
+		"oAP": "\/time-to-pick-up-dirt.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/tiny-violin.gif": {
+		"ft": 4194304,
+		"iS": 1938707,
+		"oA": 0,
+		"oAP": "\/tiny-violin.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/titanic-breakdance.gif": {
+		"ft": 4194304,
+		"iS": 872920,
+		"oA": 0,
+		"oAP": "\/titanic-breakdance.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/tom-cruise.gif": {
+		"ft": 4194304,
+		"iS": 987521,
+		"oA": 0,
+		"oAP": "\/tom-cruise.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/too-hot.gif": {
+		"ft": 4194304,
+		"iS": 468324,
+		"oA": 0,
+		"oAP": "\/too-hot.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/troll-train.gif": {
+		"ft": 4194304,
+		"iS": 490504,
+		"oA": 0,
+		"oAP": "\/troll-train.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/twirl.gif": {
+		"ft": 4194304,
+		"iS": 980544,
+		"oA": 0,
+		"oAP": "\/twirl.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/two-for-the-price-one.gif": {
+		"ft": 4194304,
+		"iS": 3470370,
+		"oA": 0,
+		"oAP": "\/two-for-the-price-one.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/two-thumbs-up-in-your-direction.gif": {
+		"ft": 4194304,
+		"iS": 476249,
+		"oA": 0,
+		"oAP": "\/two-thumbs-up-in-your-direction.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/ukraine.gif": {
+		"ft": 4194304,
+		"iS": 1712351,
+		"oA": 0,
+		"oAP": "\/ukraine.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/walking.gif": {
+		"ft": 4194304,
+		"iS": 1065348,
+		"oA": 0,
+		"oAP": "\/walking.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/warriors-come-out-and-play-gif-8.gif": {
+		"ft": 4194304,
+		"iS": 2080439,
+		"oA": 0,
+		"oAP": "\/warriors-come-out-and-play-gif-8.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/water-slide-commute.gif": {
+		"ft": 4194304,
+		"iS": 964219,
+		"oA": 0,
+		"oAP": "\/water-slide-commute.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/we-didnt-start-the-fire.gif": {
+		"ft": 4194304,
+		"iS": 2066629,
+		"oA": 0,
+		"oAP": "\/we-didnt-start-the-fire.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/we-surf-so-what.gif": {
+		"ft": 4194304,
+		"iS": 464161,
+		"oA": 0,
+		"oAP": "\/we-surf-so-what.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wear-shades-at-night.gif": {
+		"ft": 4194304,
+		"iS": 790738,
+		"oA": 0,
+		"oAP": "\/wear-shades-at-night.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/webbing.gif": {
+		"ft": 4194304,
+		"iS": 250488,
+		"oA": 0,
+		"oAP": "\/webbing.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/weight-of-the-world.gif": {
+		"ft": 4194304,
+		"iS": 970620,
+		"oA": 0,
+		"oAP": "\/weight-of-the-world.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/well-good-for-you.gif": {
+		"ft": 4194304,
+		"iS": 966865,
+		"oA": 0,
+		"oAP": "\/well-good-for-you.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/what-the.gif": {
+		"ft": 4194304,
+		"iS": 921886,
+		"oA": 0,
+		"oAP": "\/what-the.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/when-camping.gif": {
+		"ft": 4194304,
+		"iS": 1959591,
+		"oA": 0,
+		"oAP": "\/when-camping.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/whomobile.gif": {
+		"ft": 4194304,
+		"iS": 24153,
+		"oA": 0,
+		"oAP": "\/whomobile.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/whooops.gif": {
+		"ft": 4194304,
+		"iS": 5067908,
+		"oA": 0,
+		"oAP": "\/whooops.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wonder-woman-incoming-walls.gif": {
+		"ft": 4194304,
+		"iS": 1927249,
+		"oA": 0,
+		"oAP": "\/wonder-woman-incoming-walls.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wonder-woman.gif": {
+		"ft": 4194304,
+		"iS": 11912590,
+		"oA": 0,
+		"oAP": "\/wonder-woman.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/would-you-like-some-insurance.gif": {
+		"ft": 4194304,
+		"iS": 192835,
+		"oA": 0,
+		"oAP": "\/would-you-like-some-insurance.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/xfiles-what-the-hell.gif": {
+		"ft": 4194304,
+		"iS": 1013039,
+		"oA": 0,
+		"oAP": "\/xfiles-what-the-hell.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/yak-shaving.gif": {
+		"ft": 4194304,
+		"iS": 6068694,
+		"oA": 0,
+		"oAP": "\/yak-shaving.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/yay-for-making-it-count.gif": {
+		"ft": 4194304,
+		"iS": 2387290,
+		"oA": 0,
+		"oAP": "\/yay-for-making-it-count.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/yeah-hmmhmm.gif": {
+		"ft": 4194304,
+		"iS": 979165,
+		"oA": 0,
+		"oAP": "\/yeah-hmmhmm.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/yeah-right.gif": {
+		"ft": 4194304,
+		"iS": 475745,
+		"oA": 0,
+		"oAP": "\/yeah-right.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/yoda-try-force.gif": {
+		"ft": 4194304,
+		"iS": 1496636,
+		"oA": 0,
+		"oAP": "\/yoda-try-force.gif",
+		"oF": 0,
+		"opt": 0
+		}
+	},
+"hooks": [
+	],
+"manualImportLinks": {
+	},
+"projectAttributes": {
+	"creationDate": 550791873,
+	"displayValue": "amazingr",
+	"displayValueWasSetByUser": 0,
+	"iconImageName": "meme-confession",
+	"iconImageWasSetByUser": 0
+	},
+"projectSettings": {
+	"abortBuildOnError": 1,
+	"alwaysUseExternalServer": 0,
+	"animateCSSInjections": 1,
+	"autoBuildNewItems": 1,
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
+	"babelAuxiliaryCommentAfter": "",
+	"babelAuxiliaryCommentBefore": "",
+	"babelConfigFileHandlingType": 0,
+	"babelCustomPluginsList": "",
+	"babelCustomPresetsList": "",
+	"babelInsertModuleIDs": 0,
+	"babelModuleID": "",
+	"babelNoComments": 0,
+	"babelPlugins": {
+		"async-generator-functions": {
+			"active": 0
+			},
+		"async-to-generator": {
+			"active": 0
+			},
+		"async-to-module-method": {
+			"active": 0
+			},
+		"class-properties": {
+			"active": 0
+			},
+		"decorators": {
+			"active": 0
+			},
+		"decorators-legacy": {
+			"active": 0
+			},
+		"do-expressions": {
+			"active": 0
+			},
+		"es2015-arrow-functions": {
+			"active": 0
+			},
+		"es2015-block-scoped-functions": {
+			"active": 0
+			},
+		"es2015-block-scoping": {
+			"active": 0
+			},
+		"es2015-classes": {
+			"active": 0
+			},
+		"es2015-computed-properties": {
+			"active": 0
+			},
+		"es2015-constants": {
+			"active": 0
+			},
+		"es2015-destructuring": {
+			"active": 0
+			},
+		"es2015-duplicate-keys": {
+			"active": 0
+			},
+		"es2015-for-of": {
+			"active": 0
+			},
+		"es2015-function-name": {
+			"active": 0
+			},
+		"es2015-literals": {
+			"active": 0
+			},
+		"es2015-modules-amd": {
+			"active": 0
+			},
+		"es2015-modules-commonjs": {
+			"active": 0
+			},
+		"es2015-modules-systemjs": {
+			"active": 0
+			},
+		"es2015-modules-umd": {
+			"active": 0
+			},
+		"es2015-object-super": {
+			"active": 0
+			},
+		"es2015-parameters": {
+			"active": 0
+			},
+		"es2015-shorthand-properties": {
+			"active": 0
+			},
+		"es2015-spread": {
+			"active": 0
+			},
+		"es2015-sticky-regex": {
+			"active": 0
+			},
+		"es2015-template-literals": {
+			"active": 0
+			},
+		"es2015-typeof-symbol": {
+			"active": 0
+			},
+		"es2015-unicode-regex": {
+			"active": 0
+			},
+		"es3-member-expression-literals": {
+			"active": 0
+			},
+		"es3-property-literals": {
+			"active": 0
+			},
+		"es5-property-mutators": {
+			"active": 0
+			},
+		"eval": {
+			"active": 0
+			},
+		"exponentiation-operator": {
+			"active": 0
+			},
+		"export-extensions": {
+			"active": 0
+			},
+		"external-helpers": {
+			"active": 0
+			},
+		"flow-comments": {
+			"active": 0
+			},
+		"flow-strip-types": {
+			"active": 0
+			},
+		"function-bind": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
+		"jscript": {
+			"active": 0
+			},
+		"member-expression-literals": {
+			"active": 0
+			},
+		"merge-sibling-variables": {
+			"active": 0
+			},
+		"minify-booleans": {
+			"active": 0
+			},
+		"node-env-inline": {
+			"active": 0
+			},
+		"object-assign": {
+			"active": 0
+			},
+		"object-rest-spread": {
+			"active": 0
+			},
+		"object-set-prototype-of-to-assign": {
+			"active": 0
+			},
+		"property-literals": {
+			"active": 0
+			},
+		"proto-to-assign": {
+			"active": 0
+			},
+		"react-constant-elements": {
+			"active": 0
+			},
+		"react-display-name": {
+			"active": 0
+			},
+		"react-inline-elements": {
+			"active": 0
+			},
+		"react-jsx": {
+			"active": 0
+			},
+		"react-jsx-compat": {
+			"active": 0
+			},
+		"react-jsx-self": {
+			"active": 0
+			},
+		"react-jsx-source": {
+			"active": 0
+			},
+		"regenerator": {
+			"active": 0
+			},
+		"remove-console": {
+			"active": 0
+			},
+		"remove-debugger": {
+			"active": 0
+			},
+		"runtime": {
+			"active": 0
+			},
+		"simplify-comparison-operators": {
+			"active": 0
+			},
+		"strict-mode": {
+			"active": 0
+			},
+		"syntax-async-generators": {
+			"active": 0
+			},
+		"syntax-class-properties": {
+			"active": 0
+			},
+		"syntax-decorators": {
+			"active": 0
+			},
+		"syntax-do-expressions": {
+			"active": 0
+			},
+		"syntax-export-extensions": {
+			"active": 0
+			},
+		"syntax-flow": {
+			"active": 0
+			},
+		"syntax-function-bind": {
+			"active": 0
+			},
+		"syntax-function-sent": {
+			"active": 0
+			},
+		"syntax-jsx": {
+			"active": 0
+			},
+		"syntax-object-rest-spread": {
+			"active": 0
+			},
+		"undeclared-variables-check": {
+			"active": 0
+			},
+		"undefined-to-void": {
+			"active": 0
+			}
+		},
+	"babelPresetType": 193,
+	"babelRetainLines": 0,
+	"bowerAbbreviatedPath": "bower_components",
+	"bowerAutoCreateInfoFile": 1,
+	"bowerInstallDevDependencies": 0,
+	"bowerSaveDependencies": 1,
+	"bowerSaveDevDependencies": 0,
+	"bowerUseExactVersion": 0,
+	"browserRefreshDelay": 0,
+	"buildFolderActive": 0,
+	"buildFolderName": "build",
+	"cleanBuild": 1,
+	"coffeeLintFlags2": {
+		"arrow_spacing": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camel_case_classes": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"colon_assignment_spacing": {
+			"active": 0,
+			"flagValue": 1
+			},
+		"cyclomatic_complexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"duplicate_key": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"ensure_comprehensions": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indentation": {
+			"active": 1,
+			"flagValue": 2
+			},
+		"line_endings": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"max_line_length": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"missing_fat_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newlines_after_classes": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"no_backticks": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_empty_param_list": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_implicit_braces": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_stand_alone_at": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_tabs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_throwing_strings": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_trailing_whitespace": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"non_empty_constructor_needs_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space_operators": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"spacing_after_comma": {
+			"active": 1,
+			"flagValue": -1
+			}
+		},
+	"esLintConfigFileHandlingType": 0,
+	"esLintECMAVersion": 7,
+	"esLintEnvironmentsMask": 1,
+	"esLintRules": {
+		"accessor-pairs": {
+			"active": 0,
+			"optionString": "{'setWithoutGet': true, 'getWithoutSet': false}"
+			},
+		"array-bracket-newline": {
+			"active": 0,
+			"optionString": "{'multiline': true, 'minItems': null}"
+			},
+		"array-bracket-spacing": {
+			"active": 0,
+			"optionString": "'never', {'singleValue': false, 'objectsInArrays': false, 'arraysInArrays': false}"
+			},
+		"array-callback-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
+			},
+		"array-element-newline": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-body-style": {
+			"active": 0,
+			"optionString": "'as-needed', {'requireReturnForObjectLiteral': false}"
+			},
+		"arrow-parens": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"arrow-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true}"
+			},
+		"block-scoped-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"block-spacing": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"brace-style": {
+			"active": 0,
+			"optionString": "'1tbs', {'allowSingleLine': true}"
+			},
+		"callback-return": {
+			"active": 0,
+			"optionString": "['callback', 'cb', 'next']"
+			},
+		"camelcase": {
+			"active": 0,
+			"optionString": "{'properties': 'always'}"
+			},
+		"capitalized-comments": {
+			"active": 0,
+			"optionString": "'always', {'ignoreInlineComments': false, 'ignoreConsecutiveComments': false}"
+			},
+		"class-methods-use-this": {
+			"active": 0,
+			"optionString": "{'exceptMethods': []}"
+			},
+		"comma-dangle": {
+			"active": 1,
+			"optionString": "'never'"
+			},
+		"comma-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"comma-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"complexity": {
+			"active": 0,
+			"optionString": "20"
+			},
+		"computed-property-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"consistent-return": {
+			"active": 0,
+			"optionString": "{'treatUndefinedAsUnspecified': false}"
+			},
+		"consistent-this": {
+			"active": 0,
+			"optionString": "'that'"
+			},
+		"constructor-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"curly": {
+			"active": 0,
+			"optionString": "'all'"
+			},
+		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"dot-location": {
+			"active": 0,
+			"optionString": "'object'"
+			},
+		"dot-notation": {
+			"active": 0,
+			"optionString": "{'allowKeywords': false}"
+			},
+		"eol-last": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"eqeqeq": {
+			"active": 0,
+			"optionString": "'always', {'null': 'always'}"
+			},
+		"for-direction": {
+			"active": 0,
+			"optionString": ""
+			},
+		"func-call-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"func-name-matching": {
+			"active": 0,
+			"optionString": "'always', {'includeCommonJSModuleExports': false}"
+			},
+		"func-names": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"func-style": {
+			"active": 0,
+			"optionString": "'expression'"
+			},
+		"function-paren-newline": {
+			"active": 0,
+			"optionString": "'multiline'"
+			},
+		"generator-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': false}"
+			},
+		"getter-return": {
+			"active": 0,
+			"optionString": "{'allowImplicit': false}"
+			},
+		"global-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"guard-for-in": {
+			"active": 0,
+			"optionString": ""
+			},
+		"handle-callback-err": {
+			"active": 0,
+			"optionString": "'err'"
+			},
+		"id-blacklist": {
+			"active": 0,
+			"optionString": "'data', 'err', 'e', 'cb', 'callback'"
+			},
+		"id-length": {
+			"active": 0,
+			"optionString": "{'min': 2, 'max': 1000, 'properties': 'always', 'exceptions': ['x', 'i', 'y']}"
+			},
+		"id-match": {
+			"active": 0,
+			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
+		"indent": {
+			"active": 0,
+			"optionString": "4, {'SwitchCase': 0, 'VariableDeclarator': 1, 'outerIIFEBody': 1 }"
+			},
+		"init-declarations": {
+			"active": 0,
+			"optionString": "'always',  {'ignoreForLoopInit': true}"
+			},
+		"jsx-quotes": {
+			"active": 0,
+			"optionString": "'prefer-double'"
+			},
+		"key-spacing": {
+			"active": 0,
+			"optionString": "{'singleLine': {'beforeColon': false, 'afterColon': true, 'mode':'strict'}, 'multiLine': {'beforeColon': false, 'afterColon': true, 'align': 'value', 'mode':'minimum'}}"
+			},
+		"keyword-spacing": {
+			"active": 0,
+			"optionString": "{'before': true, 'after': true, 'overrides': {}}"
+			},
+		"line-comment-position": {
+			"active": 0,
+			"optionString": "{'position': 'above'}"
+			},
+		"linebreak-style": {
+			"active": 0,
+			"optionString": "'unix'"
+			},
+		"lines-around-comment": {
+			"active": 0,
+			"optionString": "{'beforeBlockComment': true}"
+			},
+		"lines-between-class-members": {
+			"active": 0,
+			"optionString": "'always', {exceptAfterSingleLine: false}"
+			},
+		"max-depth": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-len": {
+			"active": 0,
+			"optionString": "{'code': 80, 'comments': 80, 'tabWidth': 4, 'ignoreUrls': true, 'ignoreStrings': true, 'ignoreTemplateLiterals': true, 'ignoreRegExpLiterals': true}"
+			},
+		"max-lines": {
+			"active": 0,
+			"optionString": "{'max': 300, 'skipBlankLines': true, 'skipComments': true}"
+			},
+		"max-nested-callbacks": {
+			"active": 0,
+			"optionString": "{'max': 10}"
+			},
+		"max-params": {
+			"active": 0,
+			"optionString": "{'max': 4}"
+			},
+		"max-statements": {
+			"active": 0,
+			"optionString": "{'max': 10}, {'ignoreTopLevelFunctions': true}"
+			},
+		"max-statements-per-line": {
+			"active": 0,
+			"optionString": "{'max': 1}"
+			},
+		"multiline-comment-style": {
+			"active": 0,
+			"optionString": "'starred-block'"
+			},
+		"multiline-ternary": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"new-cap": {
+			"active": 0,
+			"optionString": "{'newIsCap': true, 'capIsNew': true, 'newIsCapExceptions': [], 'capIsNewExceptions': ['Array', 'Boolean', 'Date', 'Error', 'Function', 'Number', 'Object', 'RegExp', 'String', 'Symbol'], 'properties': true}"
+			},
+		"new-parens": {
+			"active": 0,
+			"optionString": ""
+			},
+		"newline-per-chained-call": {
+			"active": 0,
+			"optionString": "{'ignoreChainWithDepth': 2}"
+			},
+		"no-alert": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-array-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-await-in-loop": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-bitwise": {
+			"active": 0,
+			"optionString": "{'allow': ['~'], 'int32Hint': true}"
+			},
+		"no-buffer-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-caller": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-case-declarations": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-catch-shadow": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-class-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-compare-neg-zero": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-cond-assign": {
+			"active": 1,
+			"optionString": "'except-parens'"
+			},
+		"no-confusing-arrow": {
+			"active": 0,
+			"optionString": "{'allowParens': false}"
+			},
+		"no-console": {
+			"active": 1,
+			"optionString": "{'allow': ['warn', 'error']}"
+			},
+		"no-const-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-constant-condition": {
+			"active": 1,
+			"optionString": "{'checkLoops': true}"
+			},
+		"no-continue": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-control-regex": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-debugger": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-delete-var": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-div-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-dupe-args": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-keys": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-duplicate-imports": {
+			"active": 0,
+			"optionString": "{'includeExports': false}"
+			},
+		"no-else-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-empty": {
+			"active": 1,
+			"optionString": "{'allowEmptyCatch': false}"
+			},
+		"no-empty-character-class": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-empty-function": {
+			"active": 0,
+			"optionString": "{'allow': []}"
+			},
+		"no-empty-pattern": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-eq-null": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-eval": {
+			"active": 0,
+			"optionString": "{'allowIndirect': false}"
+			},
+		"no-ex-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extend-native": {
+			"active": 0,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-extra-bind": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-boolean-cast": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-extra-labels": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-extra-parens": {
+			"active": 0,
+			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
+			},
+		"no-extra-semi": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-fallthrough": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-floating-decimal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-func-assign": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-global-assign": {
+			"active": 1,
+			"optionString": "{'exceptions': []}"
+			},
+		"no-implicit-coercion": {
+			"active": 0,
+			"optionString": "{'boolean': true, 'number': true, 'string': true, 'allow': []}"
+			},
+		"no-implicit-globals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-implied-eval": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inline-comments": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-inner-declarations": {
+			"active": 1,
+			"optionString": "'functions'"
+			},
+		"no-invalid-regexp": {
+			"active": 1,
+			"optionString": "{'allowConstructorFlags': ['u', 'y']}"
+			},
+		"no-invalid-this": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-irregular-whitespace": {
+			"active": 1,
+			"optionString": "{'skipStrings': true, 'skipComments': false, 'skipRegExps': true, 'skipTemplates': true}"
+			},
+		"no-iterator": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-label-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-labels": {
+			"active": 0,
+			"optionString": "{'allowLoop': false, 'allowSwitch': false}"
+			},
+		"no-lone-blocks": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-lonely-if": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-loop-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-magic-numbers": {
+			"active": 0,
+			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
+			},
+		"no-mixed-operators": {
+			"active": 0,
+			"optionString": "{'groups': [['+', '-', '*', '\/', '%', '**'], ['&', '|', '^', '~', '<<', '>>', '>>>'], ['==', '!=', '===', '!==', '>', '>=', '<', '<='], ['&&', '||'], ['in', 'instanceof']], 'allowSamePrecedence': true}"
+			},
+		"no-mixed-requires": {
+			"active": 0,
+			"optionString": "{'grouping': false, 'allowCall': false }"
+			},
+		"no-mixed-spaces-and-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-assign": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multi-spaces": {
+			"active": 0,
+			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
+			},
+		"no-multi-str": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-multiple-empty-lines": {
+			"active": 0,
+			"optionString": "{'max': 2, 'maxBOF': 2, 'maxEOF': 2}"
+			},
+		"no-negated-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-nested-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-func": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-object": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-require": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-new-symbol": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-new-wrappers": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-obj-calls": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-octal-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-param-reassign": {
+			"active": 0,
+			"optionString": "{'props': false}"
+			},
+		"no-path-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-plusplus": {
+			"active": 0,
+			"optionString": "{'allowForLoopAfterthoughts': false}"
+			},
+		"no-process-env": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-process-exit": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-proto": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-prototype-builtins": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-redeclare": {
+			"active": 1,
+			"optionString": "{'builtinGlobals': false}"
+			},
+		"no-regex-spaces": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-restricted-globals": {
+			"active": 0,
+			"optionString": "'event', 'fdescribe'"
+			},
+		"no-restricted-imports": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-modules": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-restricted-properties": {
+			"active": 0,
+			"optionString": "[{'object': 'disallowedObjectName', 'property': 'disallowedPropertyName'}, {'object': 'disallowedObjectName', 'property': 'anotherDisallowedPropertyName', 'message': 'Please use allowedObjectName.allowedPropertyName.'}]"
+			},
+		"no-restricted-syntax": {
+			"active": 0,
+			"optionString": "'FunctionExpression', 'WithStatement'"
+			},
+		"no-return-assign": {
+			"active": 0,
+			"optionString": "'except-parens'"
+			},
+		"no-return-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-script-url": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-self-assign": {
+			"active": 1,
+			"optionString": "{'props': false}"
+			},
+		"no-self-compare": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-sequences": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-shadow": {
+			"active": 0,
+			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
+			},
+		"no-shadow-restricted-names": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-sparse-arrays": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-sync": {
+			"active": 0,
+			"optionString": "{'allowAtRootLevel': false}"
+			},
+		"no-tabs": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-template-curly-in-string": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-ternary": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-this-before-super": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-throw-literal": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-trailing-spaces": {
+			"active": 0,
+			"optionString": "{'skipBlankLines': false, 'ignoreComments': false}"
+			},
+		"no-undef": {
+			"active": 1,
+			"optionString": "{'typeof': false}"
+			},
+		"no-undef-init": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-undefined": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-underscore-dangle": {
+			"active": 0,
+			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
+			},
+		"no-unexpected-multiline": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unmodified-loop-condition": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-unneeded-ternary": {
+			"active": 0,
+			"optionString": "{'defaultAssignment': true}"
+			},
+		"no-unreachable": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-finally": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unsafe-negation": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unused-expressions": {
+			"active": 0,
+			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
+			},
+		"no-unused-labels": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-unused-vars": {
+			"active": 1,
+			"optionString": "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
+			},
+		"no-use-before-define": {
+			"active": 0,
+			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-call": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-computed-key": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-concat": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-constructor": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-escape": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-useless-rename": {
+			"active": 0,
+			"optionString": "{'ignoreDestructuring': false, 'ignoreImport': false, 'ignoreExport': false}"
+			},
+		"no-useless-return": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-var": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-void": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-warning-comments": {
+			"active": 0,
+			"optionString": "{'terms': ['todo', 'fixme', 'xxx'], 'location': 'start'}"
+			},
+		"no-whitespace-before-property": {
+			"active": 0,
+			"optionString": ""
+			},
+		"no-with": {
+			"active": 0,
+			"optionString": ""
+			},
+		"nonblock-statement-body-position": {
+			"active": 0,
+			"optionString": "'beside'"
+			},
+		"object-curly-newline": {
+			"active": 0,
+			"optionString": "{'ObjectExpression': {'multiline': true}, 'ObjectPattern': {'multiline': true}}"
+			},
+		"object-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"object-property-newline": {
+			"active": 0,
+			"optionString": "{'allowAllPropertiesOnSameLine': true}"
+			},
+		"object-shorthand": {
+			"active": 0,
+			"optionString": "'always', {'avoidQuotes': false, 'ignoreConstructors': false}"
+			},
+		"one-var": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"one-var-declaration-per-line": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-assignment": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"operator-linebreak": {
+			"active": 0,
+			"optionString": "'after', {'overrides': {'?': 'after', '+=': 'none'}}"
+			},
+		"padded-blocks": {
+			"active": 0,
+			"optionString": "{'blocks': 'always', 'switches': 'always', 'classes': 'always'}"
+			},
+		"padding-line-between-statements": {
+			"active": 0,
+			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
+			},
+		"prefer-arrow-callback": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-const": {
+			"active": 0,
+			"optionString": "{'destructuring': 'any', 'ignoreReadBeforeAssign': false}"
+			},
+		"prefer-destructuring": {
+			"active": 0,
+			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-numeric-literals": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-promise-reject-errors": {
+			"active": 0,
+			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-rest-params": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-spread": {
+			"active": 0,
+			"optionString": ""
+			},
+		"prefer-template": {
+			"active": 0,
+			"optionString": ""
+			},
+		"quote-props": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"quotes": {
+			"active": 0,
+			"optionString": "'double', {'avoidEscape': true, 'allowTemplateLiterals': true}"
+			},
+		"radix": {
+			"active": 0,
+			"optionString": "'always'"
+			},
+		"require-await": {
+			"active": 0,
+			"optionString": ""
+			},
+		"require-jsdoc": {
+			"active": 0,
+			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
+			},
+		"require-yield": {
+			"active": 1,
+			"optionString": ""
+			},
+		"rest-spread-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"semi": {
+			"active": 0,
+			"optionString": "'always', {'omitLastInOneLineBlock': false}"
+			},
+		"semi-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"semi-style": {
+			"active": 0,
+			"optionString": "'last'"
+			},
+		"sort-imports": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false, 'ignoreMemberSort': true, 'memberSyntaxSortOrder': ['none', 'all', 'multiple', 'single']}"
+			},
+		"sort-keys": {
+			"active": 0,
+			"optionString": "'asc', {'caseSensitive': true, 'natural': false}"
+			},
+		"sort-vars": {
+			"active": 0,
+			"optionString": "{'ignoreCase': false}"
+			},
+		"space-before-blocks": {
+			"active": 0,
+			"optionString": "{'functions': 'always', 'keywords': 'always', 'classes': 'always'}"
+			},
+		"space-before-function-paren": {
+			"active": 0,
+			"optionString": "{'anonymous': 'always', 'named': 'never'}"
+			},
+		"space-in-parens": {
+			"active": 0,
+			"optionString": "'never', {'exceptions': []}"
+			},
+		"space-infix-ops": {
+			"active": 0,
+			"optionString": "{'int32Hint': false}"
+			},
+		"space-unary-ops": {
+			"active": 0,
+			"optionString": "{'words': true, 'nonwords': false, 'overrides': {}}"
+			},
+		"spaced-comment": {
+			"active": 0,
+			"optionString": "'always', {'line': {'markers': ['\/'], 'exceptions': ['-', '+']}, 'block': {'markers': ['!'], 'exceptions': ['*'], 'balanced': false}}"
+			},
+		"strict": {
+			"active": 0,
+			"optionString": "'safe'"
+			},
+		"switch-colon-spacing": {
+			"active": 0,
+			"optionString": "{'after': true, 'before': false}"
+			},
+		"symbol-description": {
+			"active": 0,
+			"optionString": ""
+			},
+		"template-curly-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"template-tag-spacing": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"unicode-bom": {
+			"active": 0,
+			"optionString": "'never'"
+			},
+		"use-isnan": {
+			"active": 1,
+			"optionString": ""
+			},
+		"valid-jsdoc": {
+			"active": 0,
+			"optionString": "{'prefer': {'return': 'returns'}, 'requireReturn': true, 'requireReturnDescription': true, 'requireReturnType': true, 'requireParamDescription': true}"
+			},
+		"valid-typeof": {
+			"active": 1,
+			"optionString": "{'requireStringLiterals': true}"
+			},
+		"vars-on-top": {
+			"active": 0,
+			"optionString": ""
+			},
+		"wrap-iife": {
+			"active": 0,
+			"optionString": "'outside'"
+			},
+		"wrap-regex": {
+			"active": 0,
+			"optionString": ""
+			},
+		"yield-star-spacing": {
+			"active": 0,
+			"optionString": "{'before': false, 'after': true}"
+			},
+		"yoda": {
+			"active": 0,
+			"optionString": "'never', {'exceptRange': false, 'onlyEquality': false}"
+			}
+		},
+	"esLintSourceType": 0,
+	"externalServerAddress": "http:\/\/localhost:8888",
+	"gitIgnoreBuildFolder": 1,
+	"hideConfigFile": 0,
+	"jsCheckerReservedNamesString": "",
+	"jsHintFlags2": {
+		"asi": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bitwise": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"boss": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"browserify": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"camelcase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"curly": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"debug": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"dojo": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"elision": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqeqeq": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eqnull": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es3": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"esnext": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evil": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"expr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"forin": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"freeze": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"funcscope": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"futurehostile": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"globalstrict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"immed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"indent": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"iterator": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jasmine": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"jquery": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"lastsemic": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"latedef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"laxbreak": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"laxcomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loopfunc": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxcomplexity": {
+			"active": 0,
+			"flagValue": 10
+			},
+		"maxdepth": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"maxparams": {
+			"active": 0,
+			"flagValue": 3
+			},
+		"maxstatements": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"mocha": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"mootools": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"moz": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"multistr": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"newcap": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noarg": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nocomma": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"noempty": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonbsp": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"nonew": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"nonstandard": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"notypeof": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"noyield": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"onecase": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"phantom": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"plusplus": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"proto": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"prototypejs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"qunit": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"regexp": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"rhino": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"scripturl": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shadow": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"shelljs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"singleGroups": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"strict": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"sub": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"supernew": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"typed": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"undef": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"varstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"withstmt": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"worker": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"wsh": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"yui": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"jsLintFlags2": {
+		"bitwise": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"browser": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"couch": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"devel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"es6": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"for": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"maxlen": {
+			"active": 0,
+			"flagValue": 150
+			},
+		"node": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"this": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"white": {
+			"active": 0,
+			"flagValue": -1
+			}
+		},
+	"languageDefaultsCOFFEE": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 1
+		},
+	"languageDefaultsCSS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.css",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsGIF": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.gif",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0
+		},
+	"languageDefaultsHAML": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"escapeHTMLCharacters": 0,
+		"noEscapeInAttributes": 0,
+		"outputFormat": 2,
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0,
+		"useCDATA": 0,
+		"useDoubleQuotes": 0,
+		"useUnixNewlines": 0
+		},
+	"languageDefaultsJPG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.jpg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
+		"quality": 100
+		},
+	"languageDefaultsJS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*-min.js",
+		"autoOutputPathRelativePath": "\/min",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"minifyOutput": 1,
+		"syntaxCheckerStyle": 1,
+		"transpilerStyle": 0
+		},
+	"languageDefaultsJSON": {
+		"autoOutputAction": 1,
+		"autoOutputPathFilenamePattern": "*-min.json",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"orderOutput": 0,
+		"outputStyle": 1
+		},
+	"languageDefaultsKIT": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsLESS": {
+		"allowInsecureImports": 0,
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "less",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
+		"disableJavascript": 0,
+		"ieCompatibility": 1,
+		"outputStyle": 0,
+		"relativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"strictImports": 0,
+		"strictMath": 0,
+		"strictUnits": 0
+		},
+	"languageDefaultsMARKDOWN": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"criticStyle": 0,
+		"enableFootnotes": 1,
+		"enableLabels": 1,
+		"enableSmartQuotes": 1,
+		"maskEmailAddresses": 1,
+		"outputFormat": 0,
+		"outputStyle": 0,
+		"parseMetadata": 1,
+		"processHTML": 0,
+		"randomFootnoteNumbers": 0,
+		"shouldRunCacheBuster": 0,
+		"useCompatibilityMode": 0
+		},
+	"languageDefaultsOTHER": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.*",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsPNG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.png",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"optimizerType": 1,
+		"quality": 100
+		},
+	"languageDefaultsPUG": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileDebug": 1,
+		"outputStyle": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsSASS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "sass",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
+	"languageDefaultsSLIM": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.html",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"compileOnly": 0,
+		"logicless": 0,
+		"outputFormat": 0,
+		"outputStyle": 1,
+		"railsCompatible": 0,
+		"shouldRunCacheBuster": 0
+		},
+	"languageDefaultsSTYLUS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.css",
+		"autoOutputPathRelativePath": "..\/css",
+		"autoOutputPathReplace1": "stylus",
+		"autoOutputPathReplace2": "css",
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"importCSS": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"languageDefaultsSVG": {
+		"autoOutputAction": 2,
+		"autoOutputPathFilenamePattern": "*.svg",
+		"autoOutputPathRelativePath": "",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"pluginMask": 3758088159
+		},
+	"languageDefaultsTS": {
+		"autoOutputAction": 0,
+		"autoOutputPathFilenamePattern": "*.js",
+		"autoOutputPathRelativePath": "\/js",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
+		"autoOutputPathStyle": 0,
+		"createDeclarationFile": 0,
+		"createSourceMap": 0,
+		"jsxMode": 0,
+		"minifyOutput": 0,
+		"moduleResolutionType": 0,
+		"moduleType": 2,
+		"noImplicitAny": 0,
+		"preserveConstEnums": 0,
+		"removeComments": 0,
+		"suppressImplicitAnyIndexErrors": 0,
+		"targetECMAVersion": 0
+		},
+	"languageDefaultsUserDefined": [
+		],
+	"overrideExternalServerCSS": 0,
+	"previewPathAddition": "",
+	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
+	"sourceFolderName": "source",
+	"susyVersion": 3,
+	"uglifyDefinesString": "",
+	"uglifyFlags2": {
+		"ascii-only": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"bare-returns": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"booleans": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"bracketize": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"cascade": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comments": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"comparisons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"compress": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"conditionals": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"dead_code": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_console": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"drop_debugger": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"eval": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"evaluate": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_funs": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"hoist_vars": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"if_return": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"indent-level": {
+			"active": 0,
+			"flagValue": 4
+			},
+		"indent-start": {
+			"active": 0,
+			"flagValue": 0
+			},
+		"inline-script": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"join_vars": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"keep_fargs": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"keep_fnames": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"loops": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"mangle": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"max-line-len": {
+			"active": 1,
+			"flagValue": 32000
+			},
+		"negate_iife": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"properties": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"pure_getters": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"quote-keys": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"screw-ie8": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"semicolons": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sequences": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"sort": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"space-colon": {
+			"active": 1,
+			"flagValue": -1
+			},
+		"support-ie8": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"toplevel": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unused": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"warnings": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"width": {
+			"active": 1,
+			"flagValue": 80
+			}
+		},
+	"uglifyReservedNamesString": "$",
+	"websiteRelativeRoot": ""
+	},
+"settingsFileVersion": "3"
+}
