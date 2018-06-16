@@ -32,7 +32,7 @@ h1 a {
     margin: 2em 1em 0.66em 1em; }
 
 .search {
-  width: 33%;
+  width: 66%;
   padding: 0 1em;
   margin-top: 0.66em;
   margin-bottom: 1.66em;
@@ -144,16 +144,24 @@ footer {
 
 @media (min-width: 500px) {
   ul {
-    grid-template-columns: auto auto; } }
+    grid-template-columns: auto auto; }
+  .search {
+    width: 66%; } }
 
 @media (min-width: 700px) {
   ul {
-    grid-template-columns: auto auto auto; } }
+    grid-template-columns: auto auto auto; }
+  .search {
+    width: 80%; } }
 
 @media (min-width: 975px) {
   ul {
-    grid-template-columns: auto auto auto auto; } }
+    grid-template-columns: auto auto auto auto; }
+  .search {
+    width: 33%; } }
 
 @media (min-width: 1050px) {
   ul {
-    grid-template-columns: auto auto auto auto auto; } }
+    grid-template-columns: auto auto auto auto auto; }
+  .search {
+    width: 33%; } }

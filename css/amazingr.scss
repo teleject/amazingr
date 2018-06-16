@@ -57,7 +57,7 @@ h1 a {
 }
 
 .search {
-  width: 33%;
+  width: 66%;
   padding: 0 1em;
   margin-top: 0.66em;
   margin-bottom: 1.66em;
@@ -190,11 +190,17 @@ footer {
   ul {
     grid-template-columns: auto auto;
   }
+  .search {
+    width: 66%;
+  }
 }
 
 @media (min-width: $breakpoint-mamabear) {
   ul {
     grid-template-columns: auto auto auto;
+  }
+  .search {
+    width: 80%;
   }
 }
 
@@ -202,9 +208,15 @@ footer {
   ul {
     grid-template-columns: auto auto auto auto;
   }
+  .search {
+    width: 33%;
+  }
 }
 @media (min-width: $breakpoint-grandpapabear) {
   ul {
     grid-template-columns: auto auto auto auto auto;
+  }
+  .search {
+    width: 33%;
   }
 }
