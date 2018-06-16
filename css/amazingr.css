@@ -80,7 +80,7 @@ li {
   box-shadow: 0 3.8em 0 -2.2em rgba(255, 255, 255, 0.2) inset, 1px 1px 0px #3852b1, 2px 2px 0px #3852b1, 3px 3px 0px #3852b1, 4px 4px 0px #3852b1, 5px 5px 0px #3852b1, 6px 6px 0px black;
   position: relative;
   top: -5px;
-  transition: all 0.1s ease-in-out;
+  transition: all 0.2s ease-in-out;
   border-radius: 0.5em; }
 
 .button:hover {
@@ -89,14 +89,14 @@ li {
   position: relative;
   top: -3px;
   left: 2px;
-  transition: all 0.1s ease-in-out; }
+  transition: all 0.2s ease-in-out; }
 
 .button:active {
   box-shadow: 0 3.8em 0 -2.2em rgba(255, 255, 255, 0.2) inset, 1px 1px 0px #3852b1, 2px 2px 0px black;
   position: relative;
   top: -1px;
   left: 4px;
-  transition: all 0.1s ease-in-out; }
+  transition: all 0.2s ease-in-out; }
 
 .button:visited {
   background: red;
@@ -104,7 +104,7 @@ li {
   position: relative;
   top: -3px;
   left: 2px;
-  transition: all 0.1s ease-in-out; }
+  transition: all 0.2s ease-in-out; }
 
 .button:visited:hover {
   background: #3d58b6;
@@ -112,7 +112,7 @@ li {
   position: relative;
   top: -3px;
   left: 2px;
-  transition: all 0.1s ease-in-out; }
+  transition: all 0.2s ease-in-out; }
 
 footer {
   text-align: center;
