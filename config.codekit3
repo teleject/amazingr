@@ -31,30 +31,6 @@
 		"oAP": "\/404.html",
 		"oF": 0
 		},
-	"\/ad-snoopy.gif": {
-		"ft": 4194304,
-		"iS": 955674,
-		"oA": 0,
-		"oAP": "\/ad-snoopy.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/ad-snoopy2.gif": {
-		"ft": 4194304,
-		"iS": 1820102,
-		"oA": 0,
-		"oAP": "\/ad-snoopy2.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/addamsfamily-dance.gif": {
-		"ft": 4194304,
-		"iS": 1001249,
-		"oA": 0,
-		"oAP": "\/addamsfamily-dance.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/air-quotes-lasers.gif": {
 		"ft": 4194304,
 		"iS": 455849,
@@ -63,43 +39,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/anchor-man-that-escalated-quickly.gif": {
-		"ft": 4194304,
-		"iS": 1962846,
-		"oA": 0,
-		"oAP": "\/anchor-man-that-escalated-quickly.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/and-in-a-squeaker-for-second-place.gif": {
-		"ft": 4194304,
-		"iS": 2056042,
-		"oA": 0,
-		"oAP": "\/and-in-a-squeaker-for-second-place.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/arnie-smiling.gif": {
-		"ft": 4194304,
-		"iS": 2037386,
-		"oA": 0,
-		"oAP": "\/arnie-smiling.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/around-and-around.gif": {
+	"\/around.gif": {
 		"ft": 4194304,
 		"iS": 1767118,
 		"oA": 0,
-		"oAP": "\/around-and-around.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/at-science.gif": {
-		"ft": 4194304,
-		"iS": 69607,
-		"oA": 0,
-		"oAP": "\/at-science.gif",
+		"oAP": "\/around.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -116,6 +60,30 @@
 		"iS": 2026541,
 		"oA": 0,
 		"oAP": "\/awesome-day-today.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/back-in-time.gif": {
+		"ft": 4194304,
+		"iS": 504565,
+		"oA": 0,
+		"oAP": "\/back-in-time.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/bad-day.gif": {
+		"ft": 4194304,
+		"iS": 955674,
+		"oA": 0,
+		"oAP": "\/bad-day.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/bad-monitor.gif": {
+		"ft": 4194304,
+		"iS": 783286,
+		"oA": 0,
+		"oAP": "\/bad-monitor.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -143,35 +111,19 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/batman-belt-awesome.gif": {
-		"ft": 4194304,
-		"iS": 439893,
-		"oA": 0,
-		"oAP": "\/batman-belt-awesome.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/Batmobile.gif": {
 		"ft": 4194304,
 		"iS": 3644569,
 		"oA": 0,
 		"oAP": "\/Batmobile.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 1
 		},
 	"\/bats-lightning.gif": {
 		"ft": 4194304,
 		"iS": 515928,
 		"oA": 0,
 		"oAP": "\/bats-lightning.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bb-excited-louise.gif": {
-		"ft": 4194304,
-		"iS": 1384450,
-		"oA": 0,
-		"oAP": "\/bb-excited-louise.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -207,27 +159,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/black-knight.gif": {
+	"\/blocked.gif": {
 		"ft": 4194304,
-		"iS": 6629400,
+		"iS": 1841817,
 		"oA": 0,
-		"oAP": "\/black-knight.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/body-building-competition.gif": {
-		"ft": 4194304,
-		"iS": 2089981,
-		"oA": 0,
-		"oAP": "\/body-building-competition.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/bttf-sparkles.gif": {
-		"ft": 4194304,
-		"iS": 504565,
-		"oA": 0,
-		"oAP": "\/bttf-sparkles.gif",
+		"oAP": "\/blocked.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -247,11 +183,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/captain-america-sinking.gif": {
+	"\/carefully.gif": {
 		"ft": 4194304,
-		"iS": 477122,
+		"iS": 509724,
 		"oA": 0,
-		"oAP": "\/captain-america-sinking.gif",
+		"oAP": "\/carefully.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -268,6 +204,14 @@
 		"iS": 5121463,
 		"oA": 0,
 		"oAP": "\/check-out-my-eddie-murphy.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/chuckles.gif": {
+		"ft": 4194304,
+		"iS": 799218,
+		"oA": 0,
+		"oAP": "\/chuckles.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -291,6 +235,14 @@
 		"iS": 1708162,
 		"oA": 0,
 		"oAP": "\/colbert-laughing.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/come-out-and-play-gif.gif": {
+		"ft": 4194304,
+		"iS": 2080439,
+		"oA": 0,
+		"oAP": "\/come-out-and-play-gif.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -342,19 +294,19 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/count-eight.gif": {
-		"ft": 4194304,
-		"iS": 5473989,
-		"oA": 0,
-		"oAP": "\/count-eight.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/Creepy-Conan-halloween-mask.gif": {
+	"\/creepy.gif": {
 		"ft": 4194304,
 		"iS": 1030034,
 		"oA": 0,
-		"oAP": "\/Creepy-Conan-halloween-mask.gif",
+		"oAP": "\/creepy.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/cruise-missile.gif": {
+		"ft": 4194304,
+		"iS": 987521,
+		"oA": 0,
+		"oAP": "\/cruise-missile.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -413,22 +365,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/Dikembe-Mutumbo-Cereal-Block-Geico.gif": {
-		"ft": 4194304,
-		"iS": 1841817,
-		"oA": 0,
-		"oAP": "\/Dikembe-Mutumbo-Cereal-Block-Geico.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/distance-between-two-points.gif": {
-		"ft": 4194304,
-		"iS": 2747107,
-		"oA": 0,
-		"oAP": "\/distance-between-two-points.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/dive-and-slide.gif": {
 		"ft": 4194304,
 		"iS": 843315,
@@ -445,11 +381,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/do-you-see-what-the-awesome-I-am-doing.gif": {
+	"\/done-here.gif": {
 		"ft": 4194304,
-		"iS": 140958,
+		"iS": 439893,
 		"oA": 0,
-		"oAP": "\/do-you-see-what-the-awesome-I-am-doing.gif",
+		"oAP": "\/done-here.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -469,6 +405,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/eight.gif": {
+		"ft": 4194304,
+		"iS": 5473989,
+		"oA": 0,
+		"oAP": "\/eight.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/emergency-call.gif": {
 		"ft": 4194304,
 		"iS": 972949,
@@ -485,6 +429,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/escalated-quickly.gif": {
+		"ft": 4194304,
+		"iS": 1962846,
+		"oA": 0,
+		"oAP": "\/escalated-quickly.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/excellent.gif": {
 		"ft": 4194304,
 		"iS": 553082,
@@ -493,11 +445,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/excited-for-the-day.gif": {
+	"\/excited.gif": {
 		"ft": 4194304,
 		"iS": 1637818,
 		"oA": 0,
-		"oAP": "\/excited-for-the-day.gif",
+		"oAP": "\/excited.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -531,14 +483,6 @@
 		"oA": 0,
 		"oAP": "\/favicon.ico",
 		"oF": 0
-		},
-	"\/fbi-warning.gif": {
-		"ft": 4194304,
-		"iS": 838737,
-		"oA": 0,
-		"oAP": "\/fbi-warning.gif",
-		"oF": 0,
-		"opt": 0
 		},
 	"\/finger-snapping.gif": {
 		"ft": 4194304,
@@ -604,22 +548,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/futurama-fry-squint.gif": {
-		"ft": 4194304,
-		"iS": 303049,
-		"oA": 0,
-		"oAP": "\/futurama-fry-squint.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/futurama-takemymoney.gif": {
-		"ft": 4194304,
-		"iS": 566352,
-		"oA": 0,
-		"oAP": "\/futurama-takemymoney.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/gay-marriage.gif": {
 		"ft": 4194304,
 		"iS": 980002,
@@ -668,14 +596,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/golden-girls-annoyed.gif": {
-		"ft": 4194304,
-		"iS": 493232,
-		"oA": 0,
-		"oAP": "\/golden-girls-annoyed.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/gone-fishing.gif": {
 		"ft": 4194304,
 		"iS": 1985190,
@@ -684,11 +604,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/goonies-map-eyes.gif": {
+	"\/got-a-light.gif": {
 		"ft": 4194304,
-		"iS": 957842,
+		"iS": 825517,
 		"oA": 0,
-		"oAP": "\/goonies-map-eyes.gif",
+		"oAP": "\/got-a-light.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -713,6 +633,30 @@
 		"iS": 883673,
 		"oA": 0,
 		"oAP": "\/hair-removal.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/happy-dance.gif": {
+		"ft": 4194304,
+		"iS": 503700,
+		"oA": 0,
+		"oAP": "\/happy-dance.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/have-a-seat.gif": {
+		"ft": 4194304,
+		"iS": 2036761,
+		"oA": 0,
+		"oAP": "\/have-a-seat.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/head-explode.gif": {
+		"ft": 4194304,
+		"iS": 457385,
+		"oA": 0,
+		"oAP": "\/head-explode.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -748,11 +692,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/himym-head-explode.gif": {
+	"\/hmm-okay-girl.gif": {
 		"ft": 4194304,
-		"iS": 457385,
+		"iS": 5375151,
 		"oA": 0,
-		"oAP": "\/himym-head-explode.gif",
+		"oAP": "\/hmm-okay-girl.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -788,11 +732,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/i-am-awesome.gif": {
+		"ft": 4194304,
+		"iS": 140958,
+		"oA": 0,
+		"oAP": "\/i-am-awesome.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/i-do-not-see-it.gif": {
 		"ft": 4194304,
 		"iS": 487632,
 		"oA": 0,
 		"oAP": "\/i-do-not-see-it.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/i-see-what-you-did.gif": {
+		"ft": 4194304,
+		"iS": 3202747,
+		"oA": 0,
+		"oAP": "\/i-see-what-you-did.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -804,27 +764,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/ij-carefully.gif": {
-		"ft": 4194304,
-		"iS": 509724,
-		"oA": 0,
-		"oAP": "\/ij-carefully.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/ij-love-you.gif": {
 		"ft": 4194304,
 		"iS": 3816710,
 		"oA": 0,
 		"oAP": "\/ij-love-you.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/ij-this-is-gonna-be-good.gif": {
-		"ft": 4194304,
-		"iS": 723246,
-		"oA": 0,
-		"oAP": "\/ij-this-is-gonna-be-good.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -838,6 +782,14 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/in-the-groove-yeah.gif": {
+		"ft": 4194304,
+		"iS": 853872,
+		"oA": 0,
+		"oAP": "\/in-the-groove-yeah.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -850,6 +802,14 @@
 		"iS": 3012563,
 		"oA": 0,
 		"oAP": "\/interactive-street-art.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/internet-outrage.gif": {
+		"ft": 4194304,
+		"iS": 580362,
+		"oA": 0,
+		"oAP": "\/internet-outrage.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -919,14 +879,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/kirk-upset.gif": {
-		"ft": 4194304,
-		"iS": 953649,
-		"oA": 0,
-		"oAP": "\/kirk-upset.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/kitchen-aerobics.gif": {
 		"ft": 4194304,
 		"iS": 2854189,
@@ -935,27 +887,19 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/kitty-printer-aid.gif": {
-		"ft": 4194304,
-		"iS": 1582515,
-		"oA": 0,
-		"oAP": "\/kitty-printer-aid.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/ku-xlarge.gif": {
-		"ft": 4194304,
-		"iS": 3395568,
-		"oA": 0,
-		"oAP": "\/ku-xlarge.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/laser-cats.gif": {
 		"ft": 4194304,
 		"iS": 281859,
 		"oA": 0,
 		"oAP": "\/laser-cats.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/lets-dance.gif": {
+		"ft": 4194304,
+		"iS": 1001249,
+		"oA": 0,
+		"oAP": "\/lets-dance.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -990,19 +934,19 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/lt-dan-ice-cream.gif": {
-		"ft": 4194304,
-		"iS": 533054,
-		"oA": 0,
-		"oAP": "\/lt-dan-ice-cream.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/made-the-bed.gif": {
 		"ft": 4194304,
 		"iS": 427446,
 		"oA": 0,
 		"oAP": "\/made-the-bed.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/magic.gif": {
+		"ft": 4194304,
+		"iS": 636985,
+		"oA": 0,
+		"oAP": "\/magic.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1014,27 +958,19 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/making-copies.gif": {
+		"ft": 4194304,
+		"iS": 1582515,
+		"oA": 0,
+		"oAP": "\/making-copies.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/mchammer.gif": {
 		"ft": 4194304,
 		"iS": 66373,
 		"oA": 0,
 		"oAP": "\/mchammer.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/megatron-seat.gif": {
-		"ft": 4194304,
-		"iS": 2036761,
-		"oA": 0,
-		"oAP": "\/megatron-seat.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/miami-fsu-fan-runs-through-middle-of-play-fan-interruption-and-streaker-gifs.gif": {
-		"ft": 4194304,
-		"iS": 1304240,
-		"oA": 0,
-		"oAP": "\/miami-fsu-fan-runs-through-middle-of-play-fan-interruption-and-streaker-gifs.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1051,14 +987,6 @@
 		"iS": 506195,
 		"oA": 0,
 		"oAP": "\/mingus-dew.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/Mitt-Romney-Laughing.gif": {
-		"ft": 4194304,
-		"iS": 799218,
-		"oA": 0,
-		"oAP": "\/Mitt-Romney-Laughing.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1102,14 +1030,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/must-register-outrage-on-internet.gif": {
-		"ft": 4194304,
-		"iS": 580362,
-		"oA": 0,
-		"oAP": "\/must-register-outrage-on-internet.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/nailed-it.gif": {
 		"ft": 4194304,
 		"iS": 3418907,
@@ -1118,11 +1038,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/nicholas-cage-yeah.gif": {
+	"\/no-mail.gif": {
 		"ft": 4194304,
-		"iS": 853872,
+		"iS": 828485,
 		"oA": 0,
-		"oAP": "\/nicholas-cage-yeah.gif",
+		"oAP": "\/no-mail.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1131,14 +1051,6 @@
 		"iS": 1158673,
 		"oA": 0,
 		"oAP": "\/no-no-no.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/no-valentines-ralph.gif": {
-		"ft": 4194304,
-		"iS": 828485,
-		"oA": 0,
-		"oAP": "\/no-valentines-ralph.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1190,14 +1102,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/old-ben-isnt-that-nice-smile.gif": {
-		"ft": 4194304,
-		"iS": 1503145,
-		"oA": 0,
-		"oAP": "\/old-ben-isnt-that-nice-smile.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/oncoming-wave.gif": {
 		"ft": 4194304,
 		"iS": 1034626,
@@ -1227,6 +1131,14 @@
 		"iS": 4817465,
 		"oA": 0,
 		"oAP": "\/oprah-bees.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/overachiever.gif": {
+		"ft": 4194304,
+		"iS": 2089981,
+		"oA": 0,
+		"oAP": "\/overachiever.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1270,19 +1182,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/prince-eyes-hmm.gif": {
+	"\/pre-flight-check.gif": {
 		"ft": 4194304,
-		"iS": 5375151,
+		"iS": 7339019,
 		"oA": 0,
-		"oAP": "\/prince-eyes-hmm.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/prince-i-see-what-you-did.gif": {
-		"ft": 4194304,
-		"iS": 3202747,
-		"oA": 0,
-		"oAP": "\/prince-i-see-what-you-did.gif",
+		"oAP": "\/pre-flight-check.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1334,19 +1238,19 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/ra-blink.gif": {
+	"\/rabid-fan.gif": {
 		"ft": 4194304,
-		"iS": 267152,
+		"iS": 1304240,
 		"oA": 0,
-		"oAP": "\/ra-blink.gif",
+		"oAP": "\/rabid-fan.gif",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/ready-aim-fire-hit.gif": {
+	"\/ready.gif": {
 		"ft": 4194304,
-		"iS": 4170893,
+		"iS": 1487020,
 		"oA": 0,
-		"oAP": "\/ready-aim-fire-hit.gif",
+		"oAP": "\/ready.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1358,43 +1262,19 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/robocop-hit-smash.gif": {
+	"\/sad-snoopy.gif": {
 		"ft": 4194304,
-		"iS": 783286,
+		"iS": 1820102,
 		"oA": 0,
-		"oAP": "\/robocop-hit-smash.gif",
+		"oAP": "\/sad-snoopy.gif",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/robocop-scared-confused.gif": {
+	"\/scared-confused.gif": {
 		"ft": 4194304,
 		"iS": 1518459,
 		"oA": 0,
-		"oAP": "\/robocop-scared-confused.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/robotech-launch-prep.gif": {
-		"ft": 4194304,
-		"iS": 7339019,
-		"oA": 0,
-		"oAP": "\/robotech-launch-prep.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/robotech.gif": {
-		"ft": 4194304,
-		"iS": 1487020,
-		"oA": 0,
-		"oAP": "\/robotech.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/running2.gif": {
-		"ft": 4194304,
-		"iS": 20530,
-		"oA": 0,
-		"oAP": "\/running2.gif",
+		"oAP": "\/scared-confused.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1414,35 +1294,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/shaq-shove.gif": {
-		"ft": 4194304,
-		"iS": 3551442,
-		"oA": 0,
-		"oAP": "\/shaq-shove.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/shark-attack.gif": {
-		"ft": 4194304,
-		"iS": 1009702,
-		"oA": 0,
-		"oAP": "\/shark-attack.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/shhhh.gif": {
 		"ft": 4194304,
 		"iS": 998647,
 		"oA": 0,
 		"oAP": "\/shhhh.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/shia-magic.gif": {
-		"ft": 4194304,
-		"iS": 636985,
-		"oA": 0,
-		"oAP": "\/shia-magic.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1454,19 +1310,19 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/shoot-me-a-cig.gif": {
-		"ft": 4194304,
-		"iS": 825517,
-		"oA": 0,
-		"oAP": "\/shoot-me-a-cig.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/shy-old-dog.gif": {
 		"ft": 4194304,
 		"iS": 1384233,
 		"oA": 0,
 		"oAP": "\/shy-old-dog.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/sinking.gif": {
+		"ft": 4194304,
+		"iS": 477122,
+		"oA": 0,
+		"oAP": "\/sinking.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1494,6 +1350,22 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/smiling.gif": {
+		"ft": 4194304,
+		"iS": 2037386,
+		"oA": 0,
+		"oAP": "\/smiling.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/smirk.gif": {
+		"ft": 4194304,
+		"iS": 1503145,
+		"oA": 0,
+		"oAP": "\/smirk.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/smoke-racer.gif": {
 		"ft": 4194304,
 		"iS": 3095403,
@@ -1502,11 +1374,51 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/so-annoyed.gif": {
+		"ft": 4194304,
+		"iS": 493232,
+		"oA": 0,
+		"oAP": "\/so-annoyed.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/so-excited.gif": {
+		"ft": 4194304,
+		"iS": 1384450,
+		"oA": 0,
+		"oAP": "\/so-excited.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/spinning.gif": {
 		"ft": 4194304,
 		"iS": 3411984,
 		"oA": 0,
 		"oAP": "\/spinning.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/square-one.gif": {
+		"ft": 4194304,
+		"iS": 2747107,
+		"oA": 0,
+		"oAP": "\/square-one.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/squeaker.gif": {
+		"ft": 4194304,
+		"iS": 2056042,
+		"oA": 0,
+		"oAP": "\/squeaker.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/squint.gif": {
+		"ft": 4194304,
+		"iS": 303049,
+		"oA": 0,
+		"oAP": "\/squint.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1542,14 +1454,6 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/step-in-time.gif": {
-		"ft": 4194304,
-		"iS": 503700,
-		"oA": 0,
-		"oAP": "\/step-in-time.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/sttng-data-lightbright.gif": {
 		"ft": 4194304,
 		"iS": 724274,
@@ -1574,6 +1478,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/take-my-money.gif": {
+		"ft": 4194304,
+		"iS": 566352,
+		"oA": 0,
+		"oAP": "\/take-my-money.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/that-homemade-80s-hair-band-video.gif": {
 		"ft": 4194304,
 		"iS": 2267318,
@@ -1595,6 +1507,14 @@
 		"iS": 2290489,
 		"oA": 0,
 		"oAP": "\/this-guy-here-oomph-yeah.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/this-is-gonna-be-good.gif": {
+		"ft": 4194304,
+		"iS": 723246,
+		"oA": 0,
+		"oAP": "\/this-is-gonna-be-good.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1654,19 +1574,19 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/tom-cruise.gif": {
-		"ft": 4194304,
-		"iS": 987521,
-		"oA": 0,
-		"oAP": "\/tom-cruise.gif",
-		"oF": 0,
-		"opt": 0
-		},
 	"\/too-hot.gif": {
 		"ft": 4194304,
 		"iS": 468324,
 		"oA": 0,
 		"oAP": "\/too-hot.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/treasure-hunting.gif": {
+		"ft": 4194304,
+		"iS": 957842,
+		"oA": 0,
+		"oAP": "\/treasure-hunting.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1702,11 +1622,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/uh-what.gif": {
+		"ft": 4194304,
+		"iS": 267152,
+		"oA": 0,
+		"oAP": "\/uh-what.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/ukraine.gif": {
 		"ft": 4194304,
 		"iS": 1712351,
 		"oA": 0,
 		"oAP": "\/ukraine.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/upset.gif": {
+		"ft": 4194304,
+		"iS": 953649,
+		"oA": 0,
+		"oAP": "\/upset.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1718,11 +1654,11 @@
 		"oF": 0,
 		"opt": 0
 		},
-	"\/warriors-come-out-and-play-gif-8.gif": {
+	"\/warning.gif": {
 		"ft": 4194304,
-		"iS": 2080439,
+		"iS": 838737,
 		"oA": 0,
-		"oAP": "\/warriors-come-out-and-play-gif-8.gif",
+		"oAP": "\/warning.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1835,6 +1771,14 @@
 		"iS": 192835,
 		"oA": 0,
 		"oAP": "\/would-you-like-some-insurance.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wow-science.gif": {
+		"ft": 4194304,
+		"iS": 69607,
+		"oA": 0,
+		"oAP": "\/wow-science.gif",
 		"oF": 0,
 		"opt": 0
 		},

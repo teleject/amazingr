@@ -4,6 +4,11 @@ $blue: #4e68c7;
 $grey: #555;
 $borderradius: 0.5em;
 
+$breakpoint-babybear: 500px;
+$breakpoint-mamabear: 700px;
+$breakpoint-papabear: 975px;
+$breakpoint-grandpapabear: 1050px;
+
 * {
   padding: 0;
   margin: 0;
@@ -74,7 +79,7 @@ ul {
   padding: 0;
   margin: 0;
   display: grid;
-  grid-template-columns: auto auto auto auto;
+  grid-template-columns: auto;
 }
 
 li {
@@ -150,22 +155,17 @@ footer {
   text-align: center;
   padding: 6em 0;
   font-size: 0.8em;
-}
-
-footer p {
   font-weight: bold;
   text-transform: uppercase;
   font-family: helvetica, san-serif;
-}
-
-footer img {
-  vertical-align: middle;
-  padding: 0.33em;
-}
-
-footer a {
-  color: $blue;
-  text-decoration: none;
+  img {
+    vertical-align: middle;
+    padding: 0.33em;
+  }
+  a {
+    color: $blue;
+    text-decoration: none;
+  }
 }
 
 ::-webkit-input-placeholder {
@@ -184,4 +184,27 @@ footer a {
 
 :-ms-input-placeholder {
   color: $grey;
+}
+
+@media (min-width: $breakpoint-babybear) {
+  ul {
+    grid-template-columns: auto auto;
+  }
+}
+
+@media (min-width: $breakpoint-mamabear) {
+  ul {
+    grid-template-columns: auto auto auto;
+  }
+}
+
+@media (min-width: $breakpoint-papabear) {
+  ul {
+    grid-template-columns: auto auto auto auto;
+  }
+}
+@media (min-width: $breakpoint-grandpapabear) {
+  ul {
+    grid-template-columns: auto auto auto auto auto;
+  }
 }
