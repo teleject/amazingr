@@ -215,6 +215,30 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/chump-laugh.gif": {
+		"ft": 4194304,
+		"iS": 451400,
+		"oA": 0,
+		"oAP": "\/chump-laugh.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/chump-laugh2.gif": {
+		"ft": 4194304,
+		"iS": 5425341,
+		"oA": 0,
+		"oAP": "\/chump-laugh2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/chump-laugh3.gif": {
+		"ft": 4194304,
+		"iS": 3721461,
+		"oA": 0,
+		"oAP": "\/chump-laugh3.gif",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -1030,6 +1054,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/meatballs.gif": {
+		"ft": 4194304,
+		"iS": 1729165,
+		"oA": 0,
+		"oAP": "\/meatballs.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/mind-blown.gif": {
 		"ft": 4194304,
 		"iS": 1915816,
@@ -1110,6 +1142,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/must-stay-awake.gif": {
+		"ft": 4194304,
+		"iS": 708694,
+		"oA": 0,
+		"oAP": "\/must-stay-awake.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/nailed-it.gif": {
 		"ft": 4194304,
 		"iS": 3418907,
@@ -1187,6 +1227,14 @@
 		"iS": 871231,
 		"oA": 0,
 		"oAP": "\/oh-no-no-no-no.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/omg.gif": {
+		"ft": 4194304,
+		"iS": 1346280,
+		"oA": 0,
+		"oAP": "\/omg.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1667,6 +1715,14 @@
 		"iS": 3704604,
 		"oA": 0,
 		"oAP": "\/thumbs-up3.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/thumbs-up4.gif": {
+		"ft": 4194304,
+		"iS": 1279393,
+		"oA": 0,
+		"oAP": "\/thumbsup.gif",
 		"oF": 0,
 		"opt": 0
 		},
