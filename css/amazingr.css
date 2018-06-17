@@ -1,5 +1,14 @@
 @charset "UTF-8";
 @import url(https://fonts.googleapis.com/css?family=Lobster);
+:root {
+  font-size: calc(0.5em + 1vw);
+  box-sizing: border-box; }
+
+*,
+::before,
+::after {
+  box-sizing: inherit; }
+
 * {
   padding: 0;
   margin: 0; }
