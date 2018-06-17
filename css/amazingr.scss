@@ -3,6 +3,7 @@
 $blue: #4e68c7;
 $grey: #555;
 $borderradius: 0.5em;
+$white: #fff;
 
 $breakpoint-babybear: 500px;
 $breakpoint-mamabear: 700px;
@@ -56,9 +57,17 @@ h1 a {
   }
 }
 
-.search {
+#users {
+  &::before {
+    content: "🔍";
+    display: inline;
+    margin-right: 0.5rem;
+  }
+}
+
+input.search {
   width: 66%;
-  padding: 0 1em;
+  padding: 0 1rem;
   margin-top: 0.66em;
   margin-bottom: 1.66em;
   height: 2rem;
@@ -66,8 +75,10 @@ h1 a {
   border-radius: $borderradius;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   outline: none;
-  color: black;
+  color: white;
+  font-weight: bold;
   z-index: 1;
+  font-size: 1rem;
 }
 
 .sort {
@@ -169,21 +180,21 @@ footer {
 }
 
 ::-webkit-input-placeholder {
-  color: $grey;
+  color: $white;
 }
 
 :-moz-placeholder {
   /* Firefox 18- */
-  color: $grey;
+  color: $white;
 }
 
 ::-moz-placeholder {
   /* Firefox 19+ */
-  color: $grey;
+  color: $white;
 }
 
 :-ms-input-placeholder {
-  color: $grey;
+  color: $white;
 }
 
 @media (min-width: $breakpoint-babybear) {
