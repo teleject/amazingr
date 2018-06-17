@@ -143,6 +143,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/bring-it.gif": {
+		"ft": 4194304,
+		"iS": 1425511,
+		"oA": 0,
+		"oAP": "\/bring-it.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/butts.gif": {
 		"ft": 4194304,
 		"iS": 64071,
@@ -346,6 +354,30 @@
 		"iS": 1688635,
 		"oA": 0,
 		"oAP": "\/dancing.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dancing2.gif": {
+		"ft": 4194304,
+		"iS": 3209529,
+		"oA": 0,
+		"oAP": "\/dancing2.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dancing3.gif": {
+		"ft": 4194304,
+		"iS": 2589917,
+		"oA": 0,
+		"oAP": "\/dancing3.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/dancing4.gif": {
+		"ft": 4194304,
+		"iS": 610876,
+		"oA": 0,
+		"oAP": "\/dancing4.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -644,6 +676,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/heh-smirk.gif": {
+		"ft": 4194304,
+		"iS": 1663977,
+		"oA": 0,
+		"oAP": "\/heh-smirk.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/high-fives.gif": {
 		"ft": 4194304,
 		"iS": 1000077,
@@ -829,6 +869,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/its-happening.gif": {
+		"ft": 4194304,
+		"iS": 917504,
+		"oA": 0,
+		"oAP": "\/its-happening.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/jazz-hands-sorta.gif": {
 		"ft": 4194304,
 		"iS": 949995,
@@ -871,6 +919,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/kool-aid-man-and-bunny.gif": {
+		"ft": 4194304,
+		"iS": 5443511,
+		"oA": 0,
+		"oAP": "\/kool-aid-man-and-bunny.gif",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/laser-cats.gif": {
 		"ft": 4194304,
 		"iS": 281859,
@@ -909,6 +965,14 @@
 		"oA": 0,
 		"oAP": "\/linkit.pl",
 		"oF": 0
+		},
+	"\/looking.gif": {
+		"ft": 4194304,
+		"iS": 1978954,
+		"oA": 0,
+		"oAP": "\/looking.gif",
+		"oF": 0,
+		"opt": 0
 		},
 	"\/loss-for-words.gif": {
 		"ft": 4194304,
@@ -990,6 +1054,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/mondays-have-nights-too.gif": {
+		"ft": 4194304,
+		"iS": 11359393,
+		"oA": 0,
+		"oAP": "\/mondays-have-nights-too.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/moonwalk-and-wig.gif": {
 		"ft": 4194304,
 		"iS": 14735300,
@@ -998,11 +1070,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/moral-victory.gif": {
+		"ft": 4194304,
+		"iS": 1020967,
+		"oA": 0,
+		"oAP": "\/moral-victory.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/moving-launchpad.gif": {
 		"ft": 4194304,
 		"iS": 1958899,
 		"oA": 0,
 		"oAP": "\/moving-launchpad.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/mst3k-blowing-kisses.gif": {
+		"ft": 4194304,
+		"iS": 410288,
+		"oA": 0,
+		"oAP": "\/mst3k-blowing-kisses.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1051,6 +1139,14 @@
 		"iS": 3515744,
 		"oA": 0,
 		"oAP": "\/not-happy-sports-fan.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/not-right-now.gif": {
+		"ft": 4194304,
+		"iS": 913637,
+		"oA": 0,
+		"oAP": "\/not-right-now.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1342,6 +1438,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/slow-death.gif": {
+		"ft": 4194304,
+		"iS": 13204000,
+		"oA": 0,
+		"oAP": "\/slow-death.gif",
+		"oF": 0,
+		"opt": 1
+		},
 	"\/smiling.gif": {
 		"ft": 4194304,
 		"iS": 2037386,
@@ -1451,6 +1555,14 @@
 		"iS": 724274,
 		"oA": 0,
 		"oAP": "\/sttng-data-lightbright.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/sugar-high.gif": {
+		"ft": 4194304,
+		"iS": 101405,
+		"oA": 0,
+		"oAP": "\/sugar-high.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -1646,6 +1758,14 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/vr-ceo.gif": {
+		"ft": 4194304,
+		"iS": 12382054,
+		"oA": 0,
+		"oAP": "\/vr-ceo.gif",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/walking.gif": {
 		"ft": 4194304,
 		"iS": 1065348,
@@ -1699,6 +1819,22 @@
 		"iS": 921886,
 		"oA": 0,
 		"oAP": "\/what-the.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/what.gif": {
+		"ft": 4194304,
+		"iS": 397292,
+		"oA": 0,
+		"oAP": "\/what.gif",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/wheeeeeeee.gif": {
+		"ft": 4194304,
+		"iS": 1041106,
+		"oA": 0,
+		"oAP": "\/wheeeeeeee.gif",
 		"oF": 0,
 		"opt": 0
 		},
